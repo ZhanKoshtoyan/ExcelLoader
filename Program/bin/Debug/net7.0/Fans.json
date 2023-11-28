@@ -1,0 +1,3402 @@
+[
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "040",
+    "Name": "RRO/392/4-8/30/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 2820,
+    "MinVolumeFlow": 68,
+    "MaxVolumeFlow": 6790,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.7808971584547708E-19,
+      "FifthCoefficient": 3.949068407226573E-15,
+      "FourthCoefficient": -3.307659123751017E-11,
+      "ThirdCoefficient": 1.2631219607958155E-07,
+      "SecondCoefficient": -0.00019980891140269165,
+      "FirstCoefficient": -0.01545257223689742,
+      "ZeroCoefficient": 673.9448252120642
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -2.5377320440715403E-22,
+      "FifthCoefficient": 5.419331957749601E-18,
+      "FourthCoefficient": -4.3392290995386283E-14,
+      "ThirdCoefficient": 1.5427149732798668E-10,
+      "SecondCoefficient": -2.0481666039728972E-07,
+      "FirstCoefficient": -2.9046058709531E-05,
+      "ZeroCoefficient": 0.8118749736310313
+    },
+    "InletCrossSection": 0.1256,
+    "NominalPower": 0.75,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -6.146712132977088E-21,
+      "FifthCoefficient": 1.310798447035722E-16,
+      "FourthCoefficient": -1.0488880775261368E-12,
+      "ThirdCoefficient": 3.899825072668087E-09,
+      "SecondCoefficient": -6.807101884470473E-06,
+      "FirstCoefficient": 0.0046275322417745545,
+      "ZeroCoefficient": 84.9159954779106
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -6.514542640587021E-21,
+      "FifthCoefficient": 1.3271006010577893E-16,
+      "FourthCoefficient": -1.0076852029890276E-12,
+      "ThirdCoefficient": 3.5313319591581325E-09,
+      "SecondCoefficient": -5.771271239579644E-06,
+      "FirstCoefficient": 0.0036640965527021977,
+      "ZeroCoefficient": 80.77747846318914
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -6.328038066508203E-21,
+      "FifthCoefficient": 1.3358577597279927E-16,
+      "FourthCoefficient": -1.0547802400351006E-12,
+      "ThirdCoefficient": 3.8531143350657105E-09,
+      "SecondCoefficient": -6.5855826085534874E-06,
+      "FirstCoefficient": 0.004379363993492428,
+      "ZeroCoefficient": 80.13210379926394
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -9.262075130057045E-21,
+      "FifthCoefficient": 2.0110694488747132E-16,
+      "FourthCoefficient": -1.645992156887002E-12,
+      "ThirdCoefficient": 6.292888118928785E-09,
+      "SecondCoefficient": -1.1326274187587034E-05,
+      "FirstCoefficient": 0.007931433623512838,
+      "ZeroCoefficient": 79.9113271768486
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -9.220866509495354E-21,
+      "FifthCoefficient": 1.9535762951052102E-16,
+      "FourthCoefficient": -1.5485051537406473E-12,
+      "ThirdCoefficient": 5.678452208688452E-09,
+      "SecondCoefficient": -9.740846824256708E-06,
+      "FirstCoefficient": 0.006498513123941526,
+      "ZeroCoefficient": 81.20235150313428
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -6.328038066508203E-21,
+      "FifthCoefficient": 1.3358577597279927E-16,
+      "FourthCoefficient": -1.0547802400351006E-12,
+      "ThirdCoefficient": 3.8531143350657105E-09,
+      "SecondCoefficient": -6.5855826085534874E-06,
+      "FirstCoefficient": 0.004379363993492428,
+      "ZeroCoefficient": 80.13210379926394
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -4.181117667926061E-21,
+      "FifthCoefficient": 8.471230520045519E-17,
+      "FourthCoefficient": -6.333674779385446E-13,
+      "ThirdCoefficient": 2.1481514661534865E-09,
+      "SecondCoefficient": -3.336954970847256E-06,
+      "FirstCoefficient": 0.001984002119700335,
+      "ZeroCoefficient": 80.78077721766388
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -6.918462554192135E-21,
+      "FifthCoefficient": 1.4698439943353116E-16,
+      "FourthCoefficient": -1.1719770291431178E-12,
+      "ThirdCoefficient": 4.3431209388131905E-09,
+      "SecondCoefficient": -7.554226368085019E-06,
+      "FirstCoefficient": 0.005115816087810549,
+      "ZeroCoefficient": 76.98631625233031
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "040",
+    "Name": "RRO/392/4-8/40/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 2820,
+    "MinVolumeFlow": 84,
+    "MaxVolumeFlow": 8440,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.403918821901537E-19,
+      "FifthCoefficient": 4.079738057659948E-15,
+      "FourthCoefficient": -4.554681379208923E-11,
+      "ThirdCoefficient": 2.4084421773217107E-07,
+      "SecondCoefficient": -0.0005880025251850769,
+      "FirstCoefficient": 0.44572109632464124,
+      "ZeroCoefficient": 671.5571840463217
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -2.556280032509764E-22,
+      "FifthCoefficient": 7.55442353790038E-18,
+      "FourthCoefficient": -8.631415866134701E-14,
+      "ThirdCoefficient": 4.703855798232381E-10,
+      "SecondCoefficient": -1.1862101283840205E-06,
+      "FirstCoefficient": 0.0009719756626478761,
+      "ZeroCoefficient": 1.4363315810328174
+    },
+    "InletCrossSection": 0.1256,
+    "NominalPower": 1.1,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.2064676612370129E-21,
+      "FifthCoefficient": 2.789052040533426E-17,
+      "FourthCoefficient": -2.2473398766961153E-13,
+      "ThirdCoefficient": 7.224199641778081E-10,
+      "SecondCoefficient": -7.669328689783174E-07,
+      "FirstCoefficient": -4.4065369401765225E-05,
+      "ZeroCoefficient": 86.41124227954343
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -5.595622331569062E-22,
+      "FifthCoefficient": 9.074757789978954E-18,
+      "FourthCoefficient": -1.6880088488140792E-14,
+      "ThirdCoefficient": -3.575970664028497E-10,
+      "SecondCoefficient": 1.8692154248821997E-06,
+      "FirstCoefficient": -0.0025184505282175376,
+      "ZeroCoefficient": 82.9026970648196
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.2064676612370129E-21,
+      "FifthCoefficient": 2.789052040533426E-17,
+      "FourthCoefficient": -2.2473398766961153E-13,
+      "ThirdCoefficient": 7.224199641778081E-10,
+      "SecondCoefficient": -7.669328689783174E-07,
+      "FirstCoefficient": -4.4065369401765225E-05,
+      "ZeroCoefficient": 81.41124227954343
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -6.516500012164136E-22,
+      "FifthCoefficient": 1.1973082583680003E-17,
+      "FourthCoefficient": -4.7343551962148177E-14,
+      "ThirdCoefficient": -2.3203354069771304E-10,
+      "SecondCoefficient": 1.6697870401923956E-06,
+      "FirstCoefficient": -0.0024290890616452785,
+      "ZeroCoefficient": 81.59694205854262
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 2.0585250032228746E-22,
+      "FifthCoefficient": -9.243121762095328E-18,
+      "FourthCoefficient": 1.4756919812157866E-13,
+      "ThirdCoefficient": -1.0559996033118252E-09,
+      "SecondCoefficient": 3.288939306026572E-06,
+      "FirstCoefficient": -0.0036625238082496248,
+      "ZeroCoefficient": 81.68958818702657
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -5.003075804573697E-22,
+      "FifthCoefficient": 9.32369932161965E-18,
+      "FourthCoefficient": -3.8582394774018256E-14,
+      "ThirdCoefficient": -1.6678981956700013E-10,
+      "SecondCoefficient": 1.2610032185241096E-06,
+      "FirstCoefficient": -0.0018532945888256804,
+      "ZeroCoefficient": 81.55041523328502
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 1.3443321315160312E-22,
+      "FifthCoefficient": -8.885378010001613E-18,
+      "FourthCoefficient": 1.5981384976491266E-13,
+      "ThirdCoefficient": -1.1836059392545441E-09,
+      "SecondCoefficient": 3.7131075279630476E-06,
+      "FirstCoefficient": -0.004133344076145934,
+      "ZeroCoefficient": 81.72663716274448
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.2863907948253849E-21,
+      "FifthCoefficient": 3.018215991530125E-17,
+      "FourthCoefficient": -2.457397965010789E-13,
+      "ThirdCoefficient": 7.847825789898297E-10,
+      "SecondCoefficient": -7.823172692465395E-07,
+      "FirstCoefficient": -0.0001490395743250271,
+      "ZeroCoefficient": 78.42072012908305
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "040",
+    "Name": "RRO/392/5-10/40/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 2860,
+    "MinVolumeFlow": 87,
+    "MaxVolumeFlow": 8730,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -2.1553432870800906E-19,
+      "FifthCoefficient": 6.45493232178453E-15,
+      "FourthCoefficient": -7.444394509600408E-11,
+      "ThirdCoefficient": 4.0858795401658885E-07,
+      "SecondCoefficient": -0.0010476536012202972,
+      "FirstCoefficient": 0.9106878017039486,
+      "ZeroCoefficient": 764.3885299821486
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -3.2334865950314308E-22,
+      "FifthCoefficient": 9.738932022031561E-18,
+      "FourthCoefficient": -1.1323432913968184E-13,
+      "ThirdCoefficient": 6.264975815545613E-10,
+      "SecondCoefficient": -1.5993159916969573E-06,
+      "FirstCoefficient": 0.0013320482327580378,
+      "ZeroCoefficient": 1.8757205616129902
+    },
+    "InletCrossSection": 0.1256,
+    "NominalPower": 1.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.0035323119376489E-21,
+      "FifthCoefficient": 2.421753969521198E-17,
+      "FourthCoefficient": -2.0637660905206805E-13,
+      "ThirdCoefficient": 7.276234750934244E-10,
+      "SecondCoefficient": -9.638723590849248E-07,
+      "FirstCoefficient": 0.00024759758275194474,
+      "ZeroCoefficient": 86.08738530033696
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.3590950102775991E-21,
+      "FifthCoefficient": 3.422692213834895E-17,
+      "FourthCoefficient": -3.1198978118261754E-13,
+      "ThirdCoefficient": 1.2443980486034285E-09,
+      "SecondCoefficient": -2.1498467661520024E-06,
+      "FirstCoefficient": 0.001306133166821082,
+      "ZeroCoefficient": 84.80354887827284
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.0509928145176107E-21,
+      "FifthCoefficient": 2.4717606281064875E-17,
+      "FourthCoefficient": -2.0142676165977926E-13,
+      "ThirdCoefficient": 6.450336388806316E-10,
+      "SecondCoefficient": -6.290893107331561E-07,
+      "FirstCoefficient": -0.0001766928985236128,
+      "ZeroCoefficient": 84.62239262168129
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -6.525108302247478E-22,
+      "FifthCoefficient": 1.4317691550041915E-17,
+      "FourthCoefficient": -9.827498198521775E-14,
+      "ThirdCoefficient": 1.5653384993462697E-10,
+      "SecondCoefficient": 4.813164622523773E-07,
+      "FirstCoefficient": -0.0011715967179509695,
+      "ZeroCoefficient": 83.5012727459177
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -1.0350903729815656E-21,
+      "FifthCoefficient": 2.4717110635111838E-17,
+      "FourthCoefficient": -2.0607539788742445E-13,
+      "ThirdCoefficient": 6.89025404069557E-10,
+      "SecondCoefficient": -7.748193268682036E-07,
+      "FirstCoefficient": -1.1990679718258956E-05,
+      "ZeroCoefficient": 83.4090080136629
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.2113769999053977E-21,
+      "FifthCoefficient": 2.987564281304736E-17,
+      "FourthCoefficient": -2.6317173394684676E-13,
+      "ThirdCoefficient": 9.852271839018235E-10,
+      "SecondCoefficient": -1.4992384148658333E-06,
+      "FirstCoefficient": 0.0006747550335065518,
+      "ZeroCoefficient": 82.45414672877261
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -5.686877820827532E-22,
+      "FifthCoefficient": 1.2032453476417979E-17,
+      "FourthCoefficient": -7.435145926602324E-14,
+      "ThirdCoefficient": 3.678656485459729E-11,
+      "SecondCoefficient": 7.653486858051949E-07,
+      "FirstCoefficient": -0.0014322255553861608,
+      "ZeroCoefficient": 83.22185557920793
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.4976341209339837E-21,
+      "FifthCoefficient": 3.700363143972004E-17,
+      "FourthCoefficient": -3.2685037741654306E-13,
+      "ThirdCoefficient": 1.2289698959865349E-09,
+      "SecondCoefficient": -1.8847682017409913E-06,
+      "FirstCoefficient": 0.000864882167944946,
+      "ZeroCoefficient": 79.54093837900314
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "040",
+    "Name": "RRO/392/5-10/50/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 2860,
+    "MinVolumeFlow": 101,
+    "MaxVolumeFlow": 10100,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -3.4810763739867E-20,
+      "FifthCoefficient": 1.3287683551094195E-15,
+      "FourthCoefficient": -1.9544618362749532E-11,
+      "ThirdCoefficient": 1.3639860530818958E-07,
+      "SecondCoefficient": -0.00043875547684714986,
+      "FirstCoefficient": 0.43950538400339934,
+      "ZeroCoefficient": 767.821228258048
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -3.886469890935288E-23,
+      "FifthCoefficient": 1.594479014257981E-18,
+      "FourthCoefficient": -2.5224675055237223E-14,
+      "ThirdCoefficient": 1.8943239374645858E-10,
+      "SecondCoefficient": -6.442406912592134E-07,
+      "FirstCoefficient": 0.0006205346869323256,
+      "ZeroCoefficient": 2.6835582934058397
+    },
+    "InletCrossSection": 0.1256,
+    "NominalPower": 2.2,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 3.8657279556291724E-22,
+      "FifthCoefficient": -1.2485995357773152E-17,
+      "FourthCoefficient": 1.6138663601520836E-13,
+      "ThirdCoefficient": -1.0502418607827506E-09,
+      "SecondCoefficient": 3.3083079931483555E-06,
+      "FirstCoefficient": -0.004001686351669814,
+      "ZeroCoefficient": 95.37458036010715
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": 7.39022348712811E-23,
+      "FifthCoefficient": -3.196396738397867E-18,
+      "FourthCoefficient": 5.739972541976733E-14,
+      "ThirdCoefficient": -5.002263389725047E-10,
+      "SecondCoefficient": 1.9208683766761624E-06,
+      "FirstCoefficient": -0.0026219478113470307,
+      "ZeroCoefficient": 92.64874461427446
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": 2.015748775616408E-23,
+      "FifthCoefficient": -1.4178997741414582E-18,
+      "FourthCoefficient": 3.517554308140641E-14,
+      "ThirdCoefficient": -3.7040936672082486E-10,
+      "SecondCoefficient": 1.5645573626688112E-06,
+      "FirstCoefficient": -0.00224304445848229,
+      "ZeroCoefficient": 90.81394410774824
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 2.6596237573584247E-22,
+      "FifthCoefficient": -8.201324303901134E-18,
+      "FourthCoefficient": 9.987564033887512E-14,
+      "ThirdCoefficient": -6.106746226345171E-10,
+      "SecondCoefficient": 1.8301802917627856E-06,
+      "FirstCoefficient": -0.00214094003473907,
+      "ZeroCoefficient": 87.59976171407567
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 2.4362237842537516E-22,
+      "FifthCoefficient": -7.285368778699955E-18,
+      "FourthCoefficient": 8.423742615205004E-14,
+      "ThirdCoefficient": -4.793277465731574E-10,
+      "SecondCoefficient": 1.3359908799328304E-06,
+      "FirstCoefficient": -0.001473405507955776,
+      "ZeroCoefficient": 86.93648033062064
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 6.148640225484085E-22,
+      "FifthCoefficient": -1.8564869293060893E-17,
+      "FourthCoefficient": 2.1073469288184445E-13,
+      "ThirdCoefficient": -1.122099351561824E-09,
+      "SecondCoefficient": 2.8303428232799997E-06,
+      "FirstCoefficient": -0.0028019593905947923,
+      "ZeroCoefficient": 84.2552637105093
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 3.746029852669722E-22,
+      "FifthCoefficient": -1.2929216489047034E-17,
+      "FourthCoefficient": 1.7026870940930803E-13,
+      "ThirdCoefficient": -1.0605577085402407E-09,
+      "SecondCoefficient": 3.114690534484468E-06,
+      "FirstCoefficient": -0.003523094721630705,
+      "ZeroCoefficient": 83.12657191798776
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": 2.8926134224897846E-22,
+      "FifthCoefficient": -9.671731735942286E-18,
+      "FourthCoefficient": 1.2348022228549395E-13,
+      "ThirdCoefficient": -7.480037796014823E-10,
+      "SecondCoefficient": 2.147520969556621E-06,
+      "FirstCoefficient": -0.002388814323279899,
+      "ZeroCoefficient": 80.02105453341007
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "045",
+    "Name": "RRO/441/10-10/45/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 1410,
+    "MinVolumeFlow": 75,
+    "MaxVolumeFlow": 7480,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.73319805528365E-20,
+      "FifthCoefficient": 6.434977545380751E-16,
+      "FourthCoefficient": -8.414430282630146E-12,
+      "ThirdCoefficient": 4.8288254942495854E-08,
+      "SecondCoefficient": -0.00011582109681849143,
+      "FirstCoefficient": 0.05423378940638424,
+      "ZeroCoefficient": 276.54252517698376
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -4.287785870879995E-23,
+      "FifthCoefficient": 1.3715078080218648E-18,
+      "FourthCoefficient": -1.6588744552129232E-14,
+      "ThirdCoefficient": 9.14662893660304E-11,
+      "SecondCoefficient": -2.1430240863341222E-07,
+      "FirstCoefficient": 0.00012779388216896525,
+      "ZeroCoefficient": 0.5595716753748945
+    },
+    "InletCrossSection": 0.159,
+    "NominalPower": 0.55,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 3.3320892780145386E-21,
+      "FifthCoefficient": -1.0583513217706289E-16,
+      "FourthCoefficient": 1.2529670581183427E-12,
+      "ThirdCoefficient": -6.858516292119001E-09,
+      "SecondCoefficient": 1.707426496421121E-05,
+      "FirstCoefficient": -0.015757965954933548,
+      "ZeroCoefficient": 78.79505124065207
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -3.3244851564849218E-21,
+      "FifthCoefficient": 6.015266608147842E-17,
+      "FourthCoefficient": -3.266119993835805E-13,
+      "ThirdCoefficient": 2.615123154835946E-10,
+      "SecondCoefficient": 1.8991784309840141E-06,
+      "FirstCoefficient": -0.003254739848616195,
+      "ZeroCoefficient": 74.93840061540321
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -4.287848934092707E-22,
+      "FifthCoefficient": -3.7405125318617764E-18,
+      "FourthCoefficient": 1.9317228240087885E-13,
+      "ThirdCoefficient": -1.65520537602229E-09,
+      "SecondCoefficient": 5.130021372937165E-06,
+      "FirstCoefficient": -0.005333611681372077,
+      "ZeroCoefficient": 73.07557404830646
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -5.611555104053925E-22,
+      "FifthCoefficient": 1.1987442713092246E-17,
+      "FourthCoefficient": -8.902794557064851E-14,
+      "ThirdCoefficient": 2.600668873298647E-10,
+      "SecondCoefficient": -2.4517646241765877E-07,
+      "FirstCoefficient": -2.045561422149567E-05,
+      "ZeroCoefficient": 69.70355025757495
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -4.620099166046739E-22,
+      "FifthCoefficient": 1.0499676040202133E-17,
+      "FourthCoefficient": -8.554678605765583E-14,
+      "ThirdCoefficient": 2.9713923818594654E-10,
+      "SecondCoefficient": -4.3139857897317737E-07,
+      "FirstCoefficient": 0.00020675630163131332,
+      "ZeroCoefficient": 69.48731211245888
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 8.163979213684599E-22,
+      "FifthCoefficient": -1.9263863156957632E-17,
+      "FourthCoefficient": 1.7208845860804554E-13,
+      "ThirdCoefficient": -7.239078084629148E-10,
+      "SecondCoefficient": 1.4434383791271293E-06,
+      "FirstCoefficient": -0.0011239779759011565,
+      "ZeroCoefficient": 67.97648231218122
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 1.2125666622038394E-21,
+      "FifthCoefficient": -2.3789894222666088E-17,
+      "FourthCoefficient": 1.582852514644901E-13,
+      "ThirdCoefficient": -3.8655132368445964E-10,
+      "SecondCoefficient": 1.7251277970760592E-07,
+      "FirstCoefficient": 0.00030004291050983955,
+      "ZeroCoefficient": 66.67551765108963
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": 2.3200924000018514E-22,
+      "FifthCoefficient": 8.530932997547126E-20,
+      "FourthCoefficient": -6.117866946674517E-14,
+      "ThirdCoefficient": 5.566456941786864E-10,
+      "SecondCoefficient": -1.7349533948621534E-06,
+      "FirstCoefficient": 0.0017972397126012514,
+      "ZeroCoefficient": 62.973645096646436
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "045",
+    "Name": "RRO/441/10-10/50/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 1410,
+    "MinVolumeFlow": 81,
+    "MaxVolumeFlow": 8080,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.8640903670297286E-20,
+      "FifthCoefficient": 6.331934618807773E-16,
+      "FourthCoefficient": -8.03310964937409E-12,
+      "ThirdCoefficient": 4.6189116969573443E-08,
+      "SecondCoefficient": -0.00011213530288555736,
+      "FirstCoefficient": 0.05139036620066493,
+      "ZeroCoefficient": 280.5354801626545
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -3.2973017685004617E-23,
+      "FifthCoefficient": 1.105205836889827E-18,
+      "FourthCoefficient": -1.40344356839153E-14,
+      "ThirdCoefficient": 8.134981274798716E-11,
+      "SecondCoefficient": -1.9740502502766846E-07,
+      "FirstCoefficient": 0.00010724948997819229,
+      "ZeroCoefficient": 0.6515523044275109
+    },
+    "InletCrossSection": 0.159,
+    "NominalPower": 0.75,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 7.011843240538571E-22,
+      "FifthCoefficient": -2.977592280764302E-17,
+      "FourthCoefficient": 4.3468715181200836E-13,
+      "ThirdCoefficient": -2.808560078563608E-09,
+      "SecondCoefficient": 7.992371082080314E-06,
+      "FirstCoefficient": -0.008253187918323161,
+      "ZeroCoefficient": 79.0218900588887
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.4235269541662473E-21,
+      "FifthCoefficient": 2.503347824348146E-17,
+      "FourthCoefficient": -1.0309163756014426E-13,
+      "ThirdCoefficient": -3.11373299645086E-10,
+      "SecondCoefficient": 2.488958681762882E-06,
+      "FirstCoefficient": -0.0035281159095154457,
+      "ZeroCoefficient": 75.6738359900455
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -8.225731679155869E-22,
+      "FifthCoefficient": 1.6916683728195023E-17,
+      "FourthCoefficient": -1.0771100459682439E-13,
+      "ThirdCoefficient": 1.4452074133529176E-10,
+      "SecondCoefficient": 5.344294651891054E-07,
+      "FirstCoefficient": -0.0011347779155143562,
+      "ZeroCoefficient": 73.49050463547226
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 7.053487362852811E-24,
+      "FifthCoefficient": -2.349573503814571E-18,
+      "FourthCoefficient": 5.478048824666805E-14,
+      "ThirdCoefficient": -4.59875893038941E-10,
+      "SecondCoefficient": 1.5197881143011E-06,
+      "FirstCoefficient": -0.0017113736279635821,
+      "ZeroCoefficient": 71.13025132204598
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 3.795308391300072E-22,
+      "FifthCoefficient": -1.1861139585583653E-17,
+      "FourthCoefficient": 1.4426507188584095E-13,
+      "ThirdCoefficient": -8.390090512226995E-10,
+      "SecondCoefficient": 2.2527787635371235E-06,
+      "FirstCoefficient": -0.0022529973181202455,
+      "ZeroCoefficient": 70.96919026219284
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 3.152807062016765E-23,
+      "FifthCoefficient": 3.279585152875348E-18,
+      "FourthCoefficient": -7.73469898963397E-14,
+      "ThirdCoefficient": 5.833060550665458E-10,
+      "SecondCoefficient": -1.7645438153080526E-06,
+      "FirstCoefficient": 0.0018713763489711817,
+      "ZeroCoefficient": 69.05864755031557
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 3.384389275687807E-22,
+      "FifthCoefficient": -4.445907368543436E-18,
+      "FourthCoefficient": -3.1852389328507874E-15,
+      "ThirdCoefficient": 2.440690686309771E-10,
+      "SecondCoefficient": -1.0235435112886296E-06,
+      "FirstCoefficient": 0.0012380698281783341,
+      "ZeroCoefficient": 68.30528813538577
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": 9.522606414659605E-22,
+      "FifthCoefficient": -1.9896892411379722E-17,
+      "FourthCoefficient": 1.451382629941135E-13,
+      "ThirdCoefficient": -4.344049042400922E-10,
+      "SecondCoefficient": 4.5845709675005423E-07,
+      "FirstCoefficient": -2.8543213407212204E-05,
+      "ZeroCoefficient": 64.79856930552617
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "045",
+    "Name": "RRO/441/4-8/25/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 1410,
+    "MinVolumeFlow": 39,
+    "MaxVolumeFlow": 3860,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -3.8113101763178803E-20,
+      "FifthCoefficient": 6.230656286243265E-16,
+      "FourthCoefficient": -4.050393802404116E-12,
+      "ThirdCoefficient": 1.222586968757699E-08,
+      "SecondCoefficient": -1.4431256342913821E-05,
+      "FirstCoefficient": -0.031827316427851,
+      "ZeroCoefficient": 153.2564388059998
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 1.183217398817391E-22,
+      "FifthCoefficient": -1.6567921908768724E-18,
+      "FourthCoefficient": 8.595906238306296E-15,
+      "ThirdCoefficient": -2.2354815771491834E-11,
+      "SecondCoefficient": 3.0695599612292344E-08,
+      "FirstCoefficient": -1.6166996469947342E-05,
+      "ZeroCoefficient": 0.0827819850663865
+    },
+    "InletCrossSection": 0.159,
+    "NominalPower": 0.75,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -2.3463760591900384E-19,
+      "FifthCoefficient": 2.6675944406768162E-15,
+      "FourthCoefficient": -1.1215280307295317E-11,
+      "ThirdCoefficient": 2.1504530965220442E-08,
+      "SecondCoefficient": -1.8976212107404976E-05,
+      "FirstCoefficient": 0.0064330213089331114,
+      "ZeroCoefficient": 73.98017775583895
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -4.23838068799656E-19,
+      "FifthCoefficient": 4.799453207567971E-15,
+      "FourthCoefficient": -2.0018318256527663E-11,
+      "ThirdCoefficient": 3.781215752294339E-08,
+      "SecondCoefficient": -3.2594158934540726E-05,
+      "FirstCoefficient": 0.010702381556789016,
+      "ZeroCoefficient": 75.1362883730747
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -5.511303309914576E-19,
+      "FifthCoefficient": 6.809133571673464E-15,
+      "FourthCoefficient": -3.153240020635349E-11,
+      "ThirdCoefficient": 6.761573823352634E-08,
+      "SecondCoefficient": -6.781895081731633E-05,
+      "FirstCoefficient": 0.026395467724566066,
+      "ZeroCoefficient": 78.67868629445735
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -1.7131108133246418E-19,
+      "FifthCoefficient": 2.4061009010333597E-15,
+      "FourthCoefficient": -1.2559941823388314E-11,
+      "ThirdCoefficient": 3.007857054629055E-08,
+      "SecondCoefficient": -3.3355452388690787E-05,
+      "FirstCoefficient": 0.014147864873668628,
+      "ZeroCoefficient": 76.80044135430376
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 1.2368653380338246E-19,
+      "FifthCoefficient": -1.3879624913331277E-15,
+      "FourthCoefficient": 5.921309446507054E-12,
+      "ThirdCoefficient": -1.2157955102721953E-08,
+      "SecondCoefficient": 1.208579695677916E-05,
+      "FirstCoefficient": -0.004765936841191027,
+      "ZeroCoefficient": 75.06713977195996
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 1.436208509655658E-19,
+      "FifthCoefficient": -1.9782746844828473E-15,
+      "FourthCoefficient": 1.0478141988601988E-11,
+      "ThirdCoefficient": -2.6410241162791388E-08,
+      "SecondCoefficient": 3.1234523478570935E-05,
+      "FirstCoefficient": -0.014064519583099327,
+      "ZeroCoefficient": 73.0010117711354
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.4317912634339533E-19,
+      "FifthCoefficient": 1.5403413064307798E-15,
+      "FourthCoefficient": -5.987969124666058E-12,
+      "ThirdCoefficient": 1.0217428667160988E-08,
+      "SecondCoefficient": -7.534636390347799E-06,
+      "FirstCoefficient": 0.0019276601061456776,
+      "ZeroCoefficient": 71.83768749267051
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -3.134687703613497E-19,
+      "FifthCoefficient": 3.520879365697167E-15,
+      "FourthCoefficient": -1.4658750356762484E-11,
+      "ThirdCoefficient": 2.8031283044212128E-08,
+      "SecondCoefficient": -2.4861773144567043E-05,
+      "FirstCoefficient": 0.008531723676328503,
+      "ZeroCoefficient": 68.00759575837196
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "045",
+    "Name": "RRO/441/4-8/30/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 2820,
+    "MinVolumeFlow": 90,
+    "MaxVolumeFlow": 9010,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -9.026178634201124E-21,
+      "FifthCoefficient": 3.0198849458437515E-16,
+      "FourthCoefficient": -3.846342172198798E-12,
+      "ThirdCoefficient": 2.2341332554994898E-08,
+      "SecondCoefficient": -5.250833437753139E-05,
+      "FirstCoefficient": -0.040061611888765586,
+      "ZeroCoefficient": 677.0336063725163
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 1.7701125100297507E-23,
+      "FifthCoefficient": -4.835056907922023E-19,
+      "FourthCoefficient": 5.098252960434869E-15,
+      "ThirdCoefficient": -2.8761263856407E-11,
+      "SecondCoefficient": 1.0098248768447727E-07,
+      "FirstCoefficient": -0.00019175489105511802,
+      "ZeroCoefficient": 1.016470876690314
+    },
+    "InletCrossSection": 0.159,
+    "NominalPower": 1.1,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -4.904887659959267E-22,
+      "FifthCoefficient": 1.3630119686211477E-17,
+      "FourthCoefficient": -1.4069627026531318E-13,
+      "ThirdCoefficient": 6.644678058221487E-10,
+      "SecondCoefficient": -1.453606221684984E-06,
+      "FirstCoefficient": 0.0012299813313602595,
+      "ZeroCoefficient": 87.10081318936739
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -3.418178193068765E-22,
+      "FifthCoefficient": 8.553930178012284E-18,
+      "FourthCoefficient": -7.496867288689512E-14,
+      "ThirdCoefficient": 2.6538279487242115E-10,
+      "SecondCoefficient": -3.2885857677810306E-07,
+      "FirstCoefficient": 3.156071006779514E-05,
+      "ZeroCoefficient": 84.2006155734883
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -6.203239448783466E-22,
+      "FifthCoefficient": 1.5982632964275282E-17,
+      "FourthCoefficient": -1.4743683402347847E-13,
+      "ThirdCoefficient": 5.805669663547783E-10,
+      "SecondCoefficient": -9.429577689671731E-07,
+      "FirstCoefficient": 0.000477947075598914,
+      "ZeroCoefficient": 82.96555682551558
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -9.554292716060402E-23,
+      "FifthCoefficient": 2.3493062999968932E-18,
+      "FourthCoefficient": -1.370382943639901E-14,
+      "ThirdCoefficient": -4.4631375583418516E-11,
+      "SecondCoefficient": 4.6257387223788784E-07,
+      "FirstCoefficient": -0.0007745106445403523,
+      "ZeroCoefficient": 83.66757977919215
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -6.705444602206057E-22,
+      "FifthCoefficient": 1.7521988441202505E-17,
+      "FourthCoefficient": -1.6230240585549912E-13,
+      "ThirdCoefficient": 6.246535654393528E-10,
+      "SecondCoefficient": -9.378433217969987E-07,
+      "FirstCoefficient": 0.00036091951917364924,
+      "ZeroCoefficient": 84.17657196351777
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -8.315394254635404E-22,
+      "FifthCoefficient": 2.369042133973317E-17,
+      "FourthCoefficient": -2.5245032418810767E-13,
+      "ThirdCoefficient": 1.2423308439958817E-09,
+      "SecondCoefficient": -2.854652924866138E-06,
+      "FirstCoefficient": 0.0025460126050879297,
+      "ZeroCoefficient": 82.79312079024558
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -8.24084668967944E-24,
+      "FifthCoefficient": -1.4062188016398307E-18,
+      "FourthCoefficient": 3.7961310259655486E-14,
+      "ThirdCoefficient": -3.3774588664095006E-10,
+      "SecondCoefficient": 1.1912375372700784E-06,
+      "FirstCoefficient": -0.0014519679830653609,
+      "ZeroCoefficient": 82.52275662291585
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -8.240846689680546E-24,
+      "FifthCoefficient": -1.4062188016398082E-18,
+      "FourthCoefficient": 3.796131025965531E-14,
+      "ThirdCoefficient": -3.3774588664094934E-10,
+      "SecondCoefficient": 1.191237537270077E-06,
+      "FirstCoefficient": -0.0014519679830653596,
+      "ZeroCoefficient": 78.32275662291585
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "045",
+    "Name": "RRO/441/4-8/35/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 2860,
+    "MinVolumeFlow": 109,
+    "MaxVolumeFlow": 10900,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.398234815714152E-20,
+      "FifthCoefficient": 5.335981149067766E-16,
+      "FourthCoefficient": -7.764917561303206E-12,
+      "ThirdCoefficient": 5.261652751205545E-08,
+      "SecondCoefficient": -0.00015751902294921833,
+      "FirstCoefficient": 0.09145523691674484,
+      "ZeroCoefficient": 752.8528568076863
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -1.867345403358535E-23,
+      "FifthCoefficient": 7.681054545693508E-19,
+      "FourthCoefficient": -1.2035918145524858E-14,
+      "ThirdCoefficient": 8.603490896123525E-11,
+      "SecondCoefficient": -2.517835399241981E-07,
+      "FirstCoefficient": 9.129328918041478E-05,
+      "ZeroCoefficient": 1.8128997691668642
+    },
+    "InletCrossSection": 0.159,
+    "NominalPower": 1.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.1611813612045288E-21,
+      "FifthCoefficient": 4.093646171052615E-17,
+      "FourthCoefficient": -5.422297922804774E-13,
+      "ThirdCoefficient": 3.3359165956681457E-09,
+      "SecondCoefficient": -9.620302320746566E-06,
+      "FirstCoefficient": 0.010768878648428152,
+      "ZeroCoefficient": 94.63583293321079
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -9.486377463620151E-22,
+      "FifthCoefficient": 2.957777624794688E-17,
+      "FourthCoefficient": -3.288804971380088E-13,
+      "ThirdCoefficient": 1.5443716163493673E-09,
+      "SecondCoefficient": -2.9170930877492964E-06,
+      "FirstCoefficient": 0.0015805729580956867,
+      "ZeroCoefficient": 94.96787761469375
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.3288939844177225E-21,
+      "FifthCoefficient": 4.4550387677699685E-17,
+      "FourthCoefficient": -5.531115303591806E-13,
+      "ThirdCoefficient": 3.1244892495382686E-09,
+      "SecondCoefficient": -8.123885451474969E-06,
+      "FirstCoefficient": 0.008125951188311133,
+      "ZeroCoefficient": 93.21073414722957
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -7.663770617064933E-22,
+      "FifthCoefficient": 2.567152391078931E-17,
+      "FourthCoefficient": -3.158628637352558E-13,
+      "ThirdCoefficient": 1.741841935466908E-09,
+      "SecondCoefficient": -4.347613159565183E-06,
+      "FirstCoefficient": 0.004109199351740468,
+      "ZeroCoefficient": 90.00493427097786
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -5.613418130757691E-22,
+      "FifthCoefficient": 1.9023897163394167E-17,
+      "FourthCoefficient": -2.3685722686998695E-13,
+      "ThirdCoefficient": 1.3215996303043426E-09,
+      "SecondCoefficient": -3.341508038551083E-06,
+      "FirstCoefficient": 0.003205483054494749,
+      "ZeroCoefficient": 88.29109969459438
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -2.0873983419134953E-22,
+      "FifthCoefficient": 7.292581387956029E-18,
+      "FourthCoefficient": -9.239083518695924E-14,
+      "ThirdCoefficient": 5.122864630081583E-10,
+      "SecondCoefficient": -1.2554566945878194E-06,
+      "FirstCoefficient": 0.001137425060818054,
+      "ZeroCoefficient": 86.09175899543048
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.958789528740312E-22,
+      "FifthCoefficient": 6.806436159961857E-18,
+      "FourthCoefficient": -8.686471696074969E-14,
+      "ThirdCoefficient": 4.962733195673981E-10,
+      "SecondCoefficient": -1.2858970305019613E-06,
+      "FirstCoefficient": 0.0012664401737202077,
+      "ZeroCoefficient": 84.8775263141873
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -5.0201696444120154E-23,
+      "FifthCoefficient": 1.9025334658456018E-18,
+      "FourthCoefficient": -2.2482947100879276E-14,
+      "ThirdCoefficient": 8.014749446893207E-11,
+      "SecondCoefficient": 2.0340583503610813E-08,
+      "FirstCoefficient": -0.0003364433516761015,
+      "ZeroCoefficient": 82.03821614334467
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "045",
+    "Name": "RRO/441/8-8/35/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 2860,
+    "MinVolumeFlow": 116,
+    "MaxVolumeFlow": 11600,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -2.552445462614104E-21,
+      "FifthCoefficient": 1.3515549561676063E-16,
+      "FourthCoefficient": -2.659096539222752E-12,
+      "ThirdCoefficient": 2.3569595191526536E-08,
+      "SecondCoefficient": -8.843570515899056E-05,
+      "FirstCoefficient": 0.024617302536045316,
+      "ZeroCoefficient": 1048.2670588597987
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -1.2386004505849444E-23,
+      "FifthCoefficient": 5.393684532327234E-19,
+      "FourthCoefficient": -9.173101278867447E-15,
+      "ThirdCoefficient": 7.236028069080464E-11,
+      "SecondCoefficient": -2.4263202861897446E-07,
+      "FirstCoefficient": 0.0001735334721408085,
+      "ZeroCoefficient": 2.5129767841339286
+    },
+    "InletCrossSection": 0.159,
+    "NominalPower": 2.2,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.4310182127467851E-22,
+      "FifthCoefficient": 5.4094613241879874E-18,
+      "FourthCoefficient": -7.511001415297185E-14,
+      "ThirdCoefficient": 4.676150995522881E-10,
+      "SecondCoefficient": -1.3266029293030208E-06,
+      "FirstCoefficient": 0.0014385990726415174,
+      "ZeroCoefficient": 94.55099334251997
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.6758558286642083E-22,
+      "FifthCoefficient": 6.889745380770593E-18,
+      "FourthCoefficient": -1.0237715637649938E-13,
+      "ThirdCoefficient": 6.711578282173124E-10,
+      "SecondCoefficient": -1.9877319302240314E-06,
+      "FirstCoefficient": 0.002238574399780682,
+      "ZeroCoefficient": 95.96702093894875
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -4.098958981406623E-22,
+      "FifthCoefficient": 1.6952825351144983E-17,
+      "FourthCoefficient": -2.6246235684601657E-13,
+      "ThirdCoefficient": 1.878143190802753E-09,
+      "SecondCoefficient": -6.252612541989051E-06,
+      "FirstCoefficient": 0.007981231406462853,
+      "ZeroCoefficient": 93.35277512761874
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 7.792250482056996E-23,
+      "FifthCoefficient": -1.5807363238820446E-18,
+      "FourthCoefficient": 4.6143241651850846E-15,
+      "ThirdCoefficient": 6.762549154560118E-11,
+      "SecondCoefficient": -4.5845032119099543E-07,
+      "FirstCoefficient": 0.0007872614063579651,
+      "ZeroCoefficient": 90.41411821294938
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 2.890684385496448E-22,
+      "FifthCoefficient": -9.54445617868181E-18,
+      "FourthCoefficient": 1.1798660872551933E-13,
+      "ThirdCoefficient": -6.868390021416807E-10,
+      "SecondCoefficient": 1.9040990925900876E-06,
+      "FirstCoefficient": -0.0020846949993180482,
+      "ZeroCoefficient": 88.9171061682155
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 1.749781379219481E-22,
+      "FifthCoefficient": -6.058254663150013E-18,
+      "FourthCoefficient": 7.905427404845456E-14,
+      "ThirdCoefficient": -4.858282223089229E-10,
+      "SecondCoefficient": 1.418463746987418E-06,
+      "FirstCoefficient": -0.001626916743578671,
+      "ZeroCoefficient": 85.87041441639752
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -3.8260235355399115E-23,
+      "FifthCoefficient": 1.3911797178260068E-18,
+      "FourthCoefficient": -1.8915751737745907E-14,
+      "ThirdCoefficient": 1.188118943617381E-10,
+      "SecondCoefficient": -3.485624036666765E-07,
+      "FirstCoefficient": 0.00039713609615095084,
+      "ZeroCoefficient": 84.4584978922158
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -2.3576018458486996E-23,
+      "FifthCoefficient": 1.1145132893660422E-18,
+      "FourthCoefficient": -1.861349817720723E-14,
+      "ThirdCoefficient": 1.365883800349321E-10,
+      "SecondCoefficient": -4.5304513072109245E-07,
+      "FirstCoefficient": 0.00056872933012832,
+      "ZeroCoefficient": 80.23987823803702
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "045",
+    "Name": "RRO/441/8-8/40/AL/3H/D24/H52",
+    "ImpellerRotationSpeed": 2875,
+    "MinVolumeFlow": 130,
+    "MaxVolumeFlow": 13000,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -2.174288985724579E-21,
+      "FifthCoefficient": 1.240272947494116E-16,
+      "FourthCoefficient": -2.6155436953534826E-12,
+      "ThirdCoefficient": 2.4761297402360427E-08,
+      "SecondCoefficient": -9.871133427800816E-05,
+      "FirstCoefficient": 0.05416488593881678,
+      "ZeroCoefficient": 1034.5473183979639
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 6.001709326642164E-24,
+      "FifthCoefficient": -1.6328406041574596E-19,
+      "FourthCoefficient": 9.33576552385848E-16,
+      "ThirdCoefficient": 4.774194524230078E-12,
+      "SecondCoefficient": -2.4244518292410472E-08,
+      "FirstCoefficient": -0.00017066712439848267,
+      "ZeroCoefficient": 3.242517152547167
+    },
+    "InletCrossSection": 0.159,
+    "NominalPower": 3,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.0415744318075543E-22,
+      "FifthCoefficient": 4.4492147209282126E-18,
+      "FourthCoefficient": -7.102049350143999E-14,
+      "ThirdCoefficient": 5.220812923574964E-10,
+      "SecondCoefficient": -1.7877604085438725E-06,
+      "FirstCoefficient": 0.002368278415196993,
+      "ZeroCoefficient": 91.92128254906994
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -6.240620850696653E-23,
+      "FifthCoefficient": 2.5625137981681314E-18,
+      "FourthCoefficient": -3.872257156548606E-14,
+      "ThirdCoefficient": 2.6298977747578463E-10,
+      "SecondCoefficient": -8.132045553700161E-07,
+      "FirstCoefficient": 0.0009591250198163167,
+      "ZeroCoefficient": 88.28921698366936
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.0415744318075543E-22,
+      "FifthCoefficient": 4.4492147209282126E-18,
+      "FourthCoefficient": -7.102049350143999E-14,
+      "ThirdCoefficient": 5.220812923574964E-10,
+      "SecondCoefficient": -1.7877604085438725E-06,
+      "FirstCoefficient": 0.002368278415196993,
+      "ZeroCoefficient": 86.92128254906994
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -1.0415744318075454E-22,
+      "FifthCoefficient": 4.449214720928179E-18,
+      "FourthCoefficient": -7.10204935014395E-14,
+      "ThirdCoefficient": 5.220812923574932E-10,
+      "SecondCoefficient": -1.7877604085438627E-06,
+      "FirstCoefficient": 0.002368278415196982,
+      "ZeroCoefficient": 85.72128254906983
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -1.1897648962826983E-22,
+      "FifthCoefficient": 4.936440559543964E-18,
+      "FourthCoefficient": -7.616742777608812E-14,
+      "ThirdCoefficient": 5.37405262146727E-10,
+      "SecondCoefficient": -1.7557026304076304E-06,
+      "FirstCoefficient": 0.0022150965216146167,
+      "ZeroCoefficient": 86.24126356660156
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.1441167144220713E-22,
+      "FifthCoefficient": 4.735721344390172E-18,
+      "FourthCoefficient": -7.35225437932143E-14,
+      "ThirdCoefficient": 5.291386499696377E-10,
+      "SecondCoefficient": -1.7828474979283542E-06,
+      "FirstCoefficient": 0.0023328079275024313,
+      "ZeroCoefficient": 85.02587028014365
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.1283780699073257E-23,
+      "FifthCoefficient": 5.286471404075348E-19,
+      "FourthCoefficient": -8.730790157900081E-15,
+      "ThirdCoefficient": 6.11094359975427E-11,
+      "SecondCoefficient": -1.8494555819385977E-07,
+      "FirstCoefficient": 0.00020345876737921803,
+      "ZeroCoefficient": 83.47700046529076
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.2240174315481556E-22,
+      "FifthCoefficient": 5.0515170912823346E-18,
+      "FourthCoefficient": -7.824128134024975E-14,
+      "ThirdCoefficient": 5.622891544178392E-10,
+      "SecondCoefficient": -1.8927892714960543E-06,
+      "FirstCoefficient": 0.002474843024675292,
+      "ZeroCoefficient": 79.00925457325609
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "045",
+    "Name": "RRO/441/8-8/45/AL/3H/D28/H62",
+    "ImpellerRotationSpeed": 2880,
+    "MinVolumeFlow": 149,
+    "MaxVolumeFlow": 14900,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.4253153781028112E-21,
+      "FifthCoefficient": 9.266731949363912E-17,
+      "FourthCoefficient": -2.2266031296966382E-12,
+      "ThirdCoefficient": 2.412730996549806E-08,
+      "SecondCoefficient": -0.00011126524146462699,
+      "FirstCoefficient": 0.10472861313697585,
+      "ZeroCoefficient": 1026.6898710626178
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 9.126617545956235E-25,
+      "FifthCoefficient": 2.261562263498503E-20,
+      "FourthCoefficient": -1.897601668725419E-15,
+      "ThirdCoefficient": 2.948393876131398E-11,
+      "SecondCoefficient": -1.4013336104251223E-07,
+      "FirstCoefficient": -1.7233273600864054E-05,
+      "ZeroCoefficient": 4.1754266504550115
+    },
+    "InletCrossSection": 0.159,
+    "NominalPower": 4,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.162778690151171E-22,
+      "FifthCoefficient": 5.2682266923394315E-18,
+      "FourthCoefficient": -8.759643381274271E-14,
+      "ThirdCoefficient": 6.51975432659521E-10,
+      "SecondCoefficient": -2.1898217953530066E-06,
+      "FirstCoefficient": 0.0027732239426061316,
+      "ZeroCoefficient": 98.43687296501923
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -2.082878772070499E-22,
+      "FifthCoefficient": 9.683510108557116E-18,
+      "FourthCoefficient": -1.6826862239257673E-13,
+      "ThirdCoefficient": 1.350061219406412E-09,
+      "SecondCoefficient": -5.056189415096545E-06,
+      "FirstCoefficient": 0.007352831765491946,
+      "ZeroCoefficient": 94.8141127920378
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.162778690151171E-22,
+      "FifthCoefficient": 5.2682266923394315E-18,
+      "FourthCoefficient": -8.759643381274271E-14,
+      "ThirdCoefficient": 6.51975432659521E-10,
+      "SecondCoefficient": -2.1898217953530066E-06,
+      "FirstCoefficient": 0.0027732239426061316,
+      "ZeroCoefficient": 93.43687296501923
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -1.0341762871047552E-22,
+      "FifthCoefficient": 4.818515757138169E-18,
+      "FourthCoefficient": -8.35779411128146E-14,
+      "ThirdCoefficient": 6.647191863456872E-10,
+      "SecondCoefficient": -2.452747622495083E-06,
+      "FirstCoefficient": 0.003501146823024691,
+      "ZeroCoefficient": 89.13204527413285
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -6.116331066494691E-23,
+      "FifthCoefficient": 3.1834702423017517E-18,
+      "FourthCoefficient": -6.228584599826602E-14,
+      "ThirdCoefficient": 5.659324659053383E-10,
+      "SecondCoefficient": -2.401129366366563E-06,
+      "FirstCoefficient": 0.003917600085172408,
+      "ZeroCoefficient": 87.26619627085793
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.4160836363724255E-23,
+      "FifthCoefficient": 9.010243299626042E-19,
+      "FourthCoefficient": -2.043817023964949E-14,
+      "ThirdCoefficient": 2.0714874860461896E-10,
+      "SecondCoefficient": -9.534121265741591E-07,
+      "FirstCoefficient": 0.001649887966013627,
+      "ZeroCoefficient": 85.7735872368217
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -2.9693471052355227E-23,
+      "FifthCoefficient": 1.7776864766597038E-18,
+      "FourthCoefficient": -3.9232089127958025E-14,
+      "ThirdCoefficient": 3.9622562197646087E-10,
+      "SecondCoefficient": -1.836037148459577E-06,
+      "FirstCoefficient": 0.0032067631116236874,
+      "ZeroCoefficient": 83.75927031474168
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -4.0135943743181736E-23,
+      "FifthCoefficient": 2.1177531800909633E-18,
+      "FourthCoefficient": -4.1769299926843225E-14,
+      "ThirdCoefficient": 3.801009880913743E-10,
+      "SecondCoefficient": -1.6088999594141713E-06,
+      "FirstCoefficient": 0.0026149158200819886,
+      "ZeroCoefficient": 80.84395385485486
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/8-8/40/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 1410,
+    "MinVolumeFlow": 83,
+    "MaxVolumeFlow": 8310,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -2.2011253334290783E-21,
+      "FifthCoefficient": 9.192464848108199E-17,
+      "FourthCoefficient": -1.30553017875178E-12,
+      "ThirdCoefficient": 7.569826806025952E-09,
+      "SecondCoefficient": -1.4857022556927379E-05,
+      "FirstCoefficient": -0.02483580005026237,
+      "ZeroCoefficient": 279.15778002754723
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 2.061358028274713E-24,
+      "FifthCoefficient": 1.5721237684142697E-21,
+      "FourthCoefficient": -6.381847492709699E-16,
+      "ThirdCoefficient": 3.981281777916198E-12,
+      "SecondCoefficient": 8.046185766465953E-09,
+      "FirstCoefficient": -8.231588779472103E-05,
+      "ZeroCoefficient": 0.5347824205900613
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 0.55,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -8.804229385378133E-22,
+      "FifthCoefficient": 2.5227662193822037E-17,
+      "FourthCoefficient": -2.7121643050844065E-13,
+      "ThirdCoefficient": 1.3508564442178796E-09,
+      "SecondCoefficient": -3.1407827868556944E-06,
+      "FirstCoefficient": 0.002813293984546494,
+      "ZeroCoefficient": 78.18664306008438
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -7.675782819978991E-22,
+      "FifthCoefficient": 2.238949576105284E-17,
+      "FourthCoefficient": -2.4460761546082287E-13,
+      "ThirdCoefficient": 1.2361374957897328E-09,
+      "SecondCoefficient": -2.9119644164074575E-06,
+      "FirstCoefficient": 0.0026377459847788326,
+      "ZeroCoefficient": 75.0996105352604
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -9.76073056777097E-22,
+      "FifthCoefficient": 2.5838118071131392E-17,
+      "FourthCoefficient": -2.529972739315535E-13,
+      "ThirdCoefficient": 1.1238219239992948E-09,
+      "SecondCoefficient": -2.2968638325321515E-06,
+      "FirstCoefficient": 0.0018068472269144658,
+      "ZeroCoefficient": 73.96554780961601
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 1.2529788202249011E-22,
+      "FifthCoefficient": -5.375615434818694E-18,
+      "FourthCoefficient": 8.638031405661646E-14,
+      "ThirdCoefficient": -6.339946158888696E-10,
+      "SecondCoefficient": 2.009396550514354E-06,
+      "FirstCoefficient": -0.0022534398612100875,
+      "ZeroCoefficient": 73.07594333984235
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 1.2529788202249011E-22,
+      "FifthCoefficient": -5.375615434818694E-18,
+      "FourthCoefficient": 8.638031405661646E-14,
+      "ThirdCoefficient": -6.339946158888696E-10,
+      "SecondCoefficient": 2.009396550514354E-06,
+      "FirstCoefficient": -0.0022534398612100875,
+      "ZeroCoefficient": 73.07594333984235
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -7.49672413336638E-22,
+      "FifthCoefficient": 1.9677438967179816E-17,
+      "FourthCoefficient": -1.9334390473302095E-13,
+      "ThirdCoefficient": 8.788736449937695E-10,
+      "SecondCoefficient": -1.8691296755600105E-06,
+      "FirstCoefficient": 0.001545273472999272,
+      "ZeroCoefficient": 71.0840494639631
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -8.10393376181733E-22,
+      "FifthCoefficient": 2.1653449822428833E-17,
+      "FourthCoefficient": -2.178553051629503E-13,
+      "ThirdCoefficient": 1.0216714863694963E-09,
+      "SecondCoefficient": -2.251723191977003E-06,
+      "FirstCoefficient": 0.001928546162232959,
+      "ZeroCoefficient": 69.75459767019817
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.7941148046969232E-21,
+      "FifthCoefficient": 4.719205692032269E-17,
+      "FourthCoefficient": -4.664678163546207E-13,
+      "ThirdCoefficient": 2.144534098723299E-09,
+      "SecondCoefficient": -4.6282568340537156E-06,
+      "FirstCoefficient": 0.0038851664587246453,
+      "ZeroCoefficient": 65.40793251521096
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/8-8/50/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 1410,
+    "MinVolumeFlow": 101,
+    "MaxVolumeFlow": 10100,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.679354273993325E-21,
+      "FifthCoefficient": 9.002268590643803E-17,
+      "FourthCoefficient": -1.6543509454117744E-12,
+      "ThirdCoefficient": 1.3011933463786539E-08,
+      "SecondCoefficient": -4.055309620222337E-05,
+      "FirstCoefficient": 0.011493508798605442,
+      "ZeroCoefficient": 274.22872338748687
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -1.4681905120577497E-23,
+      "FifthCoefficient": 5.64589938373645E-19,
+      "FourthCoefficient": -8.372266308516503E-15,
+      "ThirdCoefficient": 5.7879875275816005E-11,
+      "SecondCoefficient": -1.7223482724580307E-07,
+      "FirstCoefficient": 0.00012238892155607217,
+      "ZeroCoefficient": 0.787287015518098
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 0.75,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.1673809226529401E-21,
+      "FifthCoefficient": 3.74429724858599E-17,
+      "FourthCoefficient": -4.4980699656166057E-13,
+      "ThirdCoefficient": 2.500392980098616E-09,
+      "SecondCoefficient": -6.4996955844573875E-06,
+      "FirstCoefficient": 0.006560970332660295,
+      "ZeroCoefficient": 83.10158751812486
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.0766241969020353E-21,
+      "FifthCoefficient": 3.422348906921577E-17,
+      "FourthCoefficient": -4.0607568955094057E-13,
+      "ThirdCoefficient": 2.2189251205505645E-09,
+      "SecondCoefficient": -5.648795836814582E-06,
+      "FirstCoefficient": 0.005577004316495948,
+      "ZeroCoefficient": 80.19299380160854
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.1673809226529401E-21,
+      "FifthCoefficient": 3.74429724858599E-17,
+      "FourthCoefficient": -4.4980699656166057E-13,
+      "ThirdCoefficient": 2.500392980098616E-09,
+      "SecondCoefficient": -6.4996955844573875E-06,
+      "FirstCoefficient": 0.006560970332660295,
+      "ZeroCoefficient": 78.10158751812486
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -7.94152983022645E-22,
+      "FifthCoefficient": 2.6064073609122284E-17,
+      "FourthCoefficient": -3.2171605814852017E-13,
+      "ThirdCoefficient": 1.8470055695884327E-09,
+      "SecondCoefficient": -4.974806457815394E-06,
+      "FirstCoefficient": 0.005200336579119502,
+      "ZeroCoefficient": 74.02325469022395
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -2.3996904033689513E-22,
+      "FifthCoefficient": 9.690816336016644E-18,
+      "FourthCoefficient": -1.44356748422796E-13,
+      "ThirdCoefficient": 9.846438455125448E-10,
+      "SecondCoefficient": -3.084234542524159E-06,
+      "FirstCoefficient": 0.0036447391312204873,
+      "ZeroCoefficient": 72.96047128445498
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -2.812028269031564E-22,
+      "FifthCoefficient": 1.1103631156175425E-17,
+      "FourthCoefficient": -1.6424474367045824E-13,
+      "ThirdCoefficient": 1.1273403314698778E-09,
+      "SecondCoefficient": -3.5714894826870002E-06,
+      "FirstCoefficient": 0.004268335727556149,
+      "ZeroCoefficient": 71.10164779657272
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -2.473854589254086E-22,
+      "FifthCoefficient": 1.0699579752934177E-17,
+      "FourthCoefficient": -1.6961313666335186E-13,
+      "ThirdCoefficient": 1.2292828258757117E-09,
+      "SecondCoefficient": -4.053915237236893E-06,
+      "FirstCoefficient": 0.0049812523209164196,
+      "ZeroCoefficient": 69.83352783934552
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.3234844113631122E-22,
+      "FifthCoefficient": 6.770493038257002E-18,
+      "FourthCoefficient": -1.1701860126455793E-13,
+      "ThirdCoefficient": 8.85554282199913E-10,
+      "SecondCoefficient": -2.982947259865206E-06,
+      "FirstCoefficient": 0.003702908634529473,
+      "ZeroCoefficient": 66.35301142133429
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/10-10/50/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 1420,
+    "MinVolumeFlow": 106,
+    "MaxVolumeFlow": 10600,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -3.595977482867008E-21,
+      "FifthCoefficient": 1.631910677946333E-16,
+      "FourthCoefficient": -2.763487877446405E-12,
+      "ThirdCoefficient": 2.118412921308067E-08,
+      "SecondCoefficient": -6.859330885450833E-05,
+      "FirstCoefficient": 0.04182632069156355,
+      "ZeroCoefficient": 318.2911226456947
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -4.625139325640702E-24,
+      "FifthCoefficient": 2.4744043322403833E-19,
+      "FourthCoefficient": -4.683101096342026E-15,
+      "ThirdCoefficient": 3.8484931890013345E-11,
+      "SecondCoefficient": -1.2547152837606924E-07,
+      "FirstCoefficient": 7.249332694852847E-05,
+      "ZeroCoefficient": 0.9726673603825651
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 1.1,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 1.5346155225352926E-22,
+      "FifthCoefficient": -7.530743115881638E-18,
+      "FourthCoefficient": 1.350053026505396E-13,
+      "ThirdCoefficient": -1.104041930151656E-09,
+      "SecondCoefficient": 4.03968758424225E-06,
+      "FirstCoefficient": -0.0054057334945223695,
+      "ZeroCoefficient": 81.6338559859269
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -9.088009273440989E-23,
+      "FifthCoefficient": 1.1614136291600284E-19,
+      "FourthCoefficient": 4.5906387585523346E-14,
+      "ThirdCoefficient": -6.245110357819541E-10,
+      "SecondCoefficient": 2.8348913566442153E-06,
+      "FirstCoefficient": -0.0042283502757859736,
+      "ZeroCoefficient": 78.52239878542414
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.3372195543870536E-22,
+      "FifthCoefficient": 3.8893077205609516E-18,
+      "FourthCoefficient": -3.7433990476345913E-14,
+      "ThirdCoefficient": 1.1807622733863285E-10,
+      "SecondCoefficient": 1.6895697250802347E-08,
+      "FirstCoefficient": -0.0003965231076787114,
+      "ZeroCoefficient": 76.14349560061703
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 1.9555243740393842E-22,
+      "FifthCoefficient": -7.079527803763379E-18,
+      "FourthCoefficient": 1.0101321481436236E-13,
+      "ThirdCoefficient": -7.055624452308442E-10,
+      "SecondCoefficient": 2.3391944153903998E-06,
+      "FirstCoefficient": -0.0029518724304849362,
+      "ZeroCoefficient": 73.7896990147944
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 1.241076252603112E-22,
+      "FifthCoefficient": -4.172224340155902E-18,
+      "FourthCoefficient": 5.491446928184827E-14,
+      "ThirdCoefficient": -3.5529294711351947E-10,
+      "SecondCoefficient": 1.1082112270849085E-06,
+      "FirstCoefficient": -0.0013393999501926548,
+      "ZeroCoefficient": 73.2307390512864
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 3.0200582087417637E-23,
+      "FifthCoefficient": 4.433936730212976E-19,
+      "FourthCoefficient": -2.672192244965099E-14,
+      "ThirdCoefficient": 2.977541539823831E-10,
+      "SecondCoefficient": -1.2343918571896619E-06,
+      "FirstCoefficient": 0.0017499122679591615,
+      "ZeroCoefficient": 71.52624435425722
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 1.8411340212965334E-22,
+      "FifthCoefficient": -4.656923897298491E-18,
+      "FourthCoefficient": 3.773800923550027E-14,
+      "ThirdCoefficient": -9.035146480216415E-11,
+      "SecondCoefficient": -1.1917594280589789E-07,
+      "FirstCoefficient": 0.000497233735274599,
+      "ZeroCoefficient": 70.44734410578212
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": 2.0100167398433153E-22,
+      "FifthCoefficient": -5.325671379229994E-18,
+      "FourthCoefficient": 4.814185074933096E-14,
+      "ThirdCoefficient": -1.6836042710683515E-10,
+      "SecondCoefficient": 1.5232879368333793E-07,
+      "FirstCoefficient": 0.00014420150786675884,
+      "ZeroCoefficient": 67.0820806042859
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/4-8/25/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 1420,
+    "MinVolumeFlow": 48,
+    "MaxVolumeFlow": 4790,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.2871111714262322E-19,
+      "FifthCoefficient": 2.0063025220321256E-15,
+      "FourthCoefficient": -1.2198113221429668E-11,
+      "ThirdCoefficient": 3.599684551535955E-08,
+      "SecondCoefficient": -5.073343872940997E-05,
+      "FirstCoefficient": -0.0009869591748485466,
+      "ZeroCoefficient": 157.16445419372866
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 9.067042224184459E-23,
+      "FifthCoefficient": -1.5157947910541956E-18,
+      "FourthCoefficient": 9.630479240866983E-15,
+      "ThirdCoefficient": -2.988927061813056E-11,
+      "SecondCoefficient": 4.517997232082161E-08,
+      "FirstCoefficient": -1.9928169754446177E-05,
+      "ZeroCoefficient": 0.09855193423918898
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 1.1,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -9.985784316195655E-20,
+      "FifthCoefficient": 1.3907357471412747E-15,
+      "FourthCoefficient": -7.1896040644617876E-12,
+      "ThirdCoefficient": 1.7126489326598875E-08,
+      "SecondCoefficient": -1.8994496522254486E-05,
+      "FirstCoefficient": 0.008179435153406689,
+      "ZeroCoefficient": 74.35130068224333
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.0785261383749279E-19,
+      "FifthCoefficient": 1.5329463950132904E-15,
+      "FourthCoefficient": -8.056091140057534E-12,
+      "ThirdCoefficient": 1.928181031368249E-08,
+      "SecondCoefficient": -2.121862889528521E-05,
+      "FirstCoefficient": 0.008965562072620569,
+      "ZeroCoefficient": 76.01946572764047
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -6.74649330703998E-20,
+      "FifthCoefficient": 9.664338643766347E-16,
+      "FourthCoefficient": -5.042865654907139E-12,
+      "ThirdCoefficient": 1.1621596141182621E-08,
+      "SecondCoefficient": -1.184562860413299E-05,
+      "FirstCoefficient": 0.004426791431162282,
+      "ZeroCoefficient": 79.91652271419929
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -2.5377115361901757E-20,
+      "FifthCoefficient": 4.310945323369189E-16,
+      "FourthCoefficient": -2.742395239274784E-12,
+      "ThirdCoefficient": 8.068507795797245E-09,
+      "SecondCoefficient": -1.1057907176526158E-05,
+      "FirstCoefficient": 0.005820739596545967,
+      "ZeroCoefficient": 77.94491640131363
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 8.325367718198014E-21,
+      "FifthCoefficient": -1.952187496543497E-16,
+      "FourthCoefficient": 1.584149429833868E-12,
+      "ThirdCoefficient": -5.69592044113492E-09,
+      "SecondCoefficient": 9.150068309423956E-06,
+      "FirstCoefficient": -0.0054191027686903695,
+      "ZeroCoefficient": 77.14101256484585
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 7.644007006565499E-21,
+      "FifthCoefficient": -2.3831673143801385E-16,
+      "FourthCoefficient": 2.1828189643330767E-12,
+      "ThirdCoefficient": -8.356404443687434E-09,
+      "SecondCoefficient": 1.389847203553598E-05,
+      "FirstCoefficient": -0.00839552049191435,
+      "ZeroCoefficient": 74.27411984469231
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -3.9666139463747043E-20,
+      "FifthCoefficient": 4.94063399675933E-16,
+      "FourthCoefficient": -2.1418512248277272E-12,
+      "ThirdCoefficient": 3.763861473496887E-09,
+      "SecondCoefficient": -2.235286669054459E-06,
+      "FirstCoefficient": -4.09500950641881E-05,
+      "ZeroCoefficient": 73.30848952694389
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -6.607634045890312E-20,
+      "FifthCoefficient": 8.566474605108725E-16,
+      "FourthCoefficient": -3.9720914927838815E-12,
+      "ThirdCoefficient": 7.951542488339947E-09,
+      "SecondCoefficient": -6.606110271965217E-06,
+      "FirstCoefficient": 0.0016932247904307641,
+      "ZeroCoefficient": 70.23558225706583
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/6-6/30/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 2860,
+    "MinVolumeFlow": 114,
+    "MaxVolumeFlow": 11400,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -2.015781222454596E-22,
+      "FifthCoefficient": 2.040845526933639E-17,
+      "FourthCoefficient": -4.913992280642483E-13,
+      "ThirdCoefficient": 4.703721051643748E-09,
+      "SecondCoefficient": -1.9008178672470125E-05,
+      "FirstCoefficient": -0.032939325453213805,
+      "ZeroCoefficient": 845.9735305771648
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -8.890145274658812E-24,
+      "FifthCoefficient": 3.406907472969238E-19,
+      "FourthCoefficient": -4.917498975224689E-15,
+      "ThirdCoefficient": 3.1695567017555006E-11,
+      "SecondCoefficient": -8.652050852244644E-08,
+      "FirstCoefficient": 9.177517584610963E-05,
+      "ZeroCoefficient": 1.4406119065864473
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 1.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -9.705047598769364E-24,
+      "FifthCoefficient": 4.110104286090083E-19,
+      "FourthCoefficient": -6.628322233355617E-15,
+      "ThirdCoefficient": 5.034776585752615E-11,
+      "SecondCoefficient": -1.783881572064244E-07,
+      "FirstCoefficient": 0.00023985373473044705,
+      "ZeroCoefficient": 90.8747182592418
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.723486281369381E-23,
+      "FifthCoefficient": 1.0000095672652781E-18,
+      "FourthCoefficient": -1.886056749417933E-14,
+      "ThirdCoefficient": 1.5164672169330836E-10,
+      "SecondCoefficient": -5.413561601005349E-07,
+      "FirstCoefficient": 0.0007189131174437243,
+      "ZeroCoefficient": 90.12455753061812
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": 6.585269430256079E-23,
+      "FifthCoefficient": -2.1421380693021476E-18,
+      "FourthCoefficient": 2.6522185653092748E-14,
+      "ThirdCoefficient": -1.5918355911889905E-10,
+      "SecondCoefficient": 4.6567749434853017E-07,
+      "FirstCoefficient": -0.0005427307545475584,
+      "ZeroCoefficient": 89.85621546422992
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 2.662917943060808E-24,
+      "FifthCoefficient": 8.553474167164796E-20,
+      "FourthCoefficient": -2.2340284524990337E-15,
+      "ThirdCoefficient": 6.295659861069453E-12,
+      "SecondCoefficient": 3.668703152829746E-08,
+      "FirstCoefficient": -0.00012319253578293535,
+      "ZeroCoefficient": 90.7140930311867
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 1.3671743167306997E-23,
+      "FifthCoefficient": -4.977138731429476E-19,
+      "FourthCoefficient": 8.092177112192993E-15,
+      "ThirdCoefficient": -7.190365323277067E-11,
+      "SecondCoefficient": 3.0128434462024447E-07,
+      "FirstCoefficient": -0.0004596535997123615,
+      "ZeroCoefficient": 90.74921427010621
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -4.491488179439371E-23,
+      "FifthCoefficient": 1.7713665696269295E-18,
+      "FourthCoefficient": -2.6493431759886025E-14,
+      "ThirdCoefficient": 1.860533915766114E-10,
+      "SecondCoefficient": -6.136216371470836E-07,
+      "FirstCoefficient": 0.0007786799098373141,
+      "ZeroCoefficient": 88.318576238234
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 1.400827581338541E-23,
+      "FifthCoefficient": -2.7364312921842196E-19,
+      "FourthCoefficient": -4.593128464903377E-16,
+      "ThirdCoefficient": 3.7496983349495076E-11,
+      "SecondCoefficient": -2.2901886757378397E-07,
+      "FirstCoefficient": 0.0003998868073188814,
+      "ZeroCoefficient": 88.05676702227787
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -7.973423186454892E-23,
+      "FifthCoefficient": 2.7133050206630223E-18,
+      "FourthCoefficient": -3.5082217688127866E-14,
+      "ThirdCoefficient": 2.165571093516486E-10,
+      "SecondCoefficient": -6.416230790438805E-07,
+      "FirstCoefficient": 0.0007493990827431698,
+      "ZeroCoefficient": 84.3224272614919
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/6-6/35/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 2860,
+    "MinVolumeFlow": 139,
+    "MaxVolumeFlow": 13900,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -6.714488133802499E-22,
+      "FifthCoefficient": 3.7379114819772094E-17,
+      "FourthCoefficient": -7.725364994139789E-13,
+      "ThirdCoefficient": 7.143344252135226E-09,
+      "SecondCoefficient": -2.733519315692842E-05,
+      "FirstCoefficient": -0.020667358887639885,
+      "ZeroCoefficient": 903.3772338717724
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -4.510262817385201E-25,
+      "FifthCoefficient": 3.6965092475491493E-20,
+      "FourthCoefficient": -8.435510111890543E-16,
+      "ThirdCoefficient": 5.514253319620686E-12,
+      "SecondCoefficient": 1.652716171111482E-08,
+      "FirstCoefficient": -0.00022523747127845513,
+      "ZeroCoefficient": 2.5609400920200986
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 2.2,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 1.7280669460764472E-23,
+      "FifthCoefficient": -1.0873927790513747E-18,
+      "FourthCoefficient": 2.5938280863494324E-14,
+      "ThirdCoefficient": -2.8800464258986536E-10,
+      "SecondCoefficient": 1.4288427810017024E-06,
+      "FirstCoefficient": -0.0025738796732528175,
+      "ZeroCoefficient": 92.93434090419495
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.5772598447905378E-22,
+      "FifthCoefficient": 6.461681166479101E-18,
+      "FourthCoefficient": -9.570761215928776E-14,
+      "ThirdCoefficient": 6.166063678339325E-10,
+      "SecondCoefficient": -1.7100263540747234E-06,
+      "FirstCoefficient": 0.0016554776063438087,
+      "ZeroCoefficient": 94.50579471955444
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -2.9129540307169933E-22,
+      "FifthCoefficient": 1.2006921608831888E-17,
+      "FourthCoefficient": -1.8066117633065543E-13,
+      "ThirdCoefficient": 1.2065001675980082E-09,
+      "SecondCoefficient": -3.583371113960651E-06,
+      "FirstCoefficient": 0.0039284776989296525,
+      "ZeroCoefficient": 97.2264968246518
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -2.1688206766423577E-22,
+      "FifthCoefficient": 9.444782232492187E-18,
+      "FourthCoefficient": -1.5237900189549789E-13,
+      "ThirdCoefficient": 1.1178665222997426E-09,
+      "SecondCoefficient": -3.7752521985901873E-06,
+      "FirstCoefficient": 0.0049057892642578775,
+      "ZeroCoefficient": 93.69085393612903
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -1.6957411650227407E-22,
+      "FifthCoefficient": 7.521588830630207E-18,
+      "FourthCoefficient": -1.2422529370006104E-13,
+      "ThirdCoefficient": 9.403225264145091E-10,
+      "SecondCoefficient": -3.302914608129615E-06,
+      "FirstCoefficient": 0.004486967570714588,
+      "ZeroCoefficient": 90.43886278111108
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -6.15143460640298E-23,
+      "FifthCoefficient": 3.06188771045921E-18,
+      "FourthCoefficient": -5.606556293025856E-14,
+      "ThirdCoefficient": 4.6435326595476135E-10,
+      "SecondCoefficient": -1.7685589008611819E-06,
+      "FirstCoefficient": 0.002580047008224906,
+      "ZeroCoefficient": 87.67435714371607
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -2.9856708219189716E-23,
+      "FifthCoefficient": 1.4743227805274317E-18,
+      "FourthCoefficient": -2.6487745373196884E-14,
+      "ThirdCoefficient": 2.1182289191025404E-10,
+      "SecondCoefficient": -7.70014990062322E-07,
+      "FirstCoefficient": 0.0010673611821185212,
+      "ZeroCoefficient": 86.66641364722634
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -4.893775267333186E-23,
+      "FifthCoefficient": 2.4043332831740126E-18,
+      "FourthCoefficient": -4.3505720880459214E-14,
+      "ThirdCoefficient": 3.5612599519774583E-10,
+      "SecondCoefficient": -1.3406767819867822E-06,
+      "FirstCoefficient": 0.0019348057011700853,
+      "ZeroCoefficient": 82.9561891107676
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/6-6/40/AL/3H/D24/H52",
+    "ImpellerRotationSpeed": 2875,
+    "MinVolumeFlow": 156,
+    "MaxVolumeFlow": 15600,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": 3.728946904478677E-22,
+      "FifthCoefficient": -1.6100070659504393E-17,
+      "FourthCoefficient": 2.5554649899511587E-13,
+      "ThirdCoefficient": -2.0843653856684897E-09,
+      "SecondCoefficient": 1.2187675442595987E-05,
+      "FirstCoefficient": -0.0869609685275645,
+      "ZeroCoefficient": 963.2268984902969
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 1.5567145106011491E-24,
+      "FifthCoefficient": -7.136851025533956E-20,
+      "FourthCoefficient": 1.27688750510164E-15,
+      "ThirdCoefficient": -1.3177361643176733E-11,
+      "SecondCoefficient": 9.767640043755024E-08,
+      "FirstCoefficient": -0.0004357460111883513,
+      "ZeroCoefficient": 3.4153893128679824
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 3,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 3.2333359029761507E-23,
+      "FifthCoefficient": -1.651254497818802E-18,
+      "FourthCoefficient": 3.213174011461671E-14,
+      "ThirdCoefficient": -2.959095930914321E-10,
+      "SecondCoefficient": 1.2903767671696648E-06,
+      "FirstCoefficient": -0.0021829031240766087,
+      "ZeroCoefficient": 91.61119114075144
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": 1.7306550065767688E-23,
+      "FifthCoefficient": -8.641206347896363E-19,
+      "FourthCoefficient": 1.6458748394455265E-14,
+      "ThirdCoefficient": -1.4892246088994386E-10,
+      "SecondCoefficient": 6.407268162764444E-07,
+      "FirstCoefficient": -0.001073618600503523,
+      "ZeroCoefficient": 88.95291117257449
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": 1.7306550065767688E-23,
+      "FifthCoefficient": -8.641206347896363E-19,
+      "FourthCoefficient": 1.6458748394455265E-14,
+      "ThirdCoefficient": -1.4892246088994386E-10,
+      "SecondCoefficient": 6.407268162764444E-07,
+      "FirstCoefficient": -0.001073618600503523,
+      "ZeroCoefficient": 86.95291117257449
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 1.836318732358475E-23,
+      "FifthCoefficient": -9.656012890688423E-19,
+      "FourthCoefficient": 1.9641607958357102E-14,
+      "ThirdCoefficient": -1.9212939363069786E-10,
+      "SecondCoefficient": 8.921121187481197E-07,
+      "FirstCoefficient": -0.0015934164196800354,
+      "ZeroCoefficient": 86.22884032040841
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 9.033428544411858E-24,
+      "FifthCoefficient": -5.629765833382495E-19,
+      "FourthCoefficient": 1.317202814220946E-14,
+      "ThirdCoefficient": -1.432793389154359E-10,
+      "SecondCoefficient": 7.168390198282109E-07,
+      "FirstCoefficient": -0.0013453205604511734,
+      "ZeroCoefficient": 85.19432878583267
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 2.6308821749924147E-23,
+      "FifthCoefficient": -1.3776831167828122E-18,
+      "FourthCoefficient": 2.7894324593369248E-14,
+      "ThirdCoefficient": -2.7162864861240334E-10,
+      "SecondCoefficient": 1.2566691549872873E-06,
+      "FirstCoefficient": -0.0022388637893063722,
+      "ZeroCoefficient": 85.12147758322635
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 1.998666797767915E-23,
+      "FifthCoefficient": -1.094226946113755E-18,
+      "FourthCoefficient": 2.309781766147008E-14,
+      "ThirdCoefficient": -2.3294334090426647E-10,
+      "SecondCoefficient": 1.1065581098358825E-06,
+      "FirstCoefficient": -0.0020078101508435487,
+      "ZeroCoefficient": 85.68889938962607
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": 3.0398905039262667E-23,
+      "FifthCoefficient": -1.5824474352401261E-18,
+      "FourthCoefficient": 3.1734625428924634E-14,
+      "ThirdCoefficient": -3.049899037219693E-10,
+      "SecondCoefficient": 1.392590932282542E-06,
+      "FirstCoefficient": -0.0024544541749757045,
+      "ZeroCoefficient": 81.45197450960369
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/8-8/40/AL/3H/D28/H62",
+    "ImpellerRotationSpeed": 2880,
+    "MinVolumeFlow": 170,
+    "MaxVolumeFlow": 17000,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -4.355052192396162E-24,
+      "FifthCoefficient": 3.9818463681375974E-18,
+      "FourthCoefficient": -1.6749190745742714E-13,
+      "ThirdCoefficient": 2.2247839573133084E-09,
+      "SecondCoefficient": -7.643981047189283E-06,
+      "FirstCoefficient": -0.06505450418253632,
+      "ZeroCoefficient": 1171.2503913395487
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 4.3536533492262865E-25,
+      "FifthCoefficient": -1.0953727739829487E-20,
+      "FourthCoefficient": -5.1802135443049746E-17,
+      "ThirdCoefficient": 1.041747192016788E-12,
+      "SecondCoefficient": 3.275272215642844E-08,
+      "FirstCoefficient": -0.0003798705959278068,
+      "ZeroCoefficient": 4.563626368019585
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 4,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.2200292292519704E-23,
+      "FifthCoefficient": 7.125005751510336E-19,
+      "FourthCoefficient": -1.5613517928806095E-14,
+      "ThirdCoefficient": 1.585248939289852E-10,
+      "SecondCoefficient": -7.513919060761112E-07,
+      "FirstCoefficient": 0.0013723948810742818,
+      "ZeroCoefficient": 93.68716461005064
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.3052692549072728E-23,
+      "FifthCoefficient": 7.68967893920932E-19,
+      "FourthCoefficient": -1.704030560342613E-14,
+      "ThirdCoefficient": 1.7546595127653603E-10,
+      "SecondCoefficient": -8.439520459247474E-07,
+      "FirstCoefficient": 0.0015615712320462113,
+      "ZeroCoefficient": 90.55743348152315
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.5620940634090166E-23,
+      "FifthCoefficient": 8.493149229162099E-19,
+      "FourthCoefficient": -1.717003825190507E-14,
+      "ThirdCoefficient": 1.5872992056824825E-10,
+      "SecondCoefficient": -6.794842068261532E-07,
+      "FirstCoefficient": 0.0011231843374592044,
+      "ZeroCoefficient": 89.4283830186213
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 3.6425905105908545E-24,
+      "FifthCoefficient": -2.522735008855325E-19,
+      "FourthCoefficient": 6.988011093200031E-15,
+      "ThirdCoefficient": -9.358086436185323E-11,
+      "SecondCoefficient": 5.676460242009031E-07,
+      "FirstCoefficient": -0.001253368374512144,
+      "ZeroCoefficient": 88.5993000234801
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 3.6425905105908545E-24,
+      "FifthCoefficient": -2.522735008855325E-19,
+      "FourthCoefficient": 6.988011093200031E-15,
+      "ThirdCoefficient": -9.358086436185323E-11,
+      "SecondCoefficient": 5.676460242009031E-07,
+      "FirstCoefficient": -0.001253368374512144,
+      "ZeroCoefficient": 88.5993000234801
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.0207642484365209E-23,
+      "FifthCoefficient": 5.466235979563261E-19,
+      "FourthCoefficient": -1.0951174621761773E-14,
+      "ThirdCoefficient": 1.0142104559988894E-10,
+      "SecondCoefficient": -4.391800007232516E-07,
+      "FirstCoefficient": 0.0007391243013897223,
+      "ZeroCoefficient": 86.58662213021651
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.106004274091801E-23,
+      "FifthCoefficient": 6.030909167262097E-19,
+      "FourthCoefficient": -1.2377962296381439E-14,
+      "ThirdCoefficient": 1.1836210294743551E-10,
+      "SecondCoefficient": -5.317401405718649E-07,
+      "FirstCoefficient": 0.000928300652361606,
+      "ZeroCoefficient": 85.25689100168911
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -2.438458089066667E-23,
+      "FifthCoefficient": 1.3088439721614823E-18,
+      "FourthCoefficient": -2.6385195468820038E-14,
+      "ThirdCoefficient": 2.472267318910805E-10,
+      "SecondCoefficient": -1.0868874222388589E-06,
+      "FirstCoefficient": 0.0018583439275495564,
+      "ZeroCoefficient": 80.91438528566212
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/8-8/45/AL/3H/D28/H62",
+    "ImpellerRotationSpeed": 2890,
+    "MinVolumeFlow": 193,
+    "MaxVolumeFlow": 19300,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.1787735584721849E-22,
+      "FifthCoefficient": 1.293732606374074E-17,
+      "FourthCoefficient": -4.569889187586881E-13,
+      "ThirdCoefficient": 6.7186958688224596E-09,
+      "SecondCoefficient": -3.8538293415373964E-05,
+      "FirstCoefficient": 0.009842297470944596,
+      "ZeroCoefficient": 1169.4243373611796
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 1.033522609993146E-24,
+      "FifthCoefficient": -4.6079618220580845E-20,
+      "FourthCoefficient": 6.124777779107728E-16,
+      "ThirdCoefficient": -2.793727720699552E-12,
+      "SecondCoefficient": 3.231113186257781E-08,
+      "FirstCoefficient": -0.00041984998260969746,
+      "ZeroCoefficient": 6.099816201700348
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 5.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -2.1457241952990725E-23,
+      "FifthCoefficient": 1.1835841247038148E-18,
+      "FourthCoefficient": -2.3211862279952894E-14,
+      "ThirdCoefficient": 1.9085159160350065E-10,
+      "SecondCoefficient": -6.207926417792014E-07,
+      "FirstCoefficient": 0.0005429613225248348,
+      "ZeroCoefficient": 101.92227965865618
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -2.2054835122805403E-23,
+      "FifthCoefficient": 1.1827247878024495E-18,
+      "FourthCoefficient": -2.2208081386087894E-14,
+      "ThirdCoefficient": 1.6811139341835722E-10,
+      "SecondCoefficient": -4.4125687601521723E-07,
+      "FirstCoefficient": 6.654231128370118E-05,
+      "ZeroCoefficient": 98.60879701368907
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -2.477371102585285E-23,
+      "FifthCoefficient": 1.431548836369742E-18,
+      "FourthCoefficient": -3.0241690541136226E-14,
+      "ThirdCoefficient": 2.842100718332017E-10,
+      "SecondCoefficient": -1.193514951203102E-06,
+      "FirstCoefficient": 0.0018644016262507987,
+      "ZeroCoefficient": 96.3864712173862
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -1.829237395520512E-23,
+      "FifthCoefficient": 1.085916684375072E-18,
+      "FourthCoefficient": -2.3824090660911158E-14,
+      "ThirdCoefficient": 2.368766173913079E-10,
+      "SecondCoefficient": -1.079129032790051E-06,
+      "FirstCoefficient": 0.0018833644820930302,
+      "ZeroCoefficient": 91.57705078001061
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -1.433991591502942E-23,
+      "FifthCoefficient": 9.133292519845412E-19,
+      "FourthCoefficient": -2.186064410476099E-14,
+      "ThirdCoefficient": 2.4294221485843066E-10,
+      "SecondCoefficient": -1.2643925419117383E-06,
+      "FirstCoefficient": 0.0025488944302638618,
+      "ZeroCoefficient": 89.65301058031463
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -8.541436515468135E-24,
+      "FifthCoefficient": 5.56600095388404E-19,
+      "FourthCoefficient": -1.3628197000906244E-14,
+      "ThirdCoefficient": 1.5481903482783335E-10,
+      "SecondCoefficient": -8.223603340642066E-07,
+      "FirstCoefficient": 0.0016870903272321388,
+      "ZeroCoefficient": 88.00348954959932
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -2.5529824059381068E-24,
+      "FifthCoefficient": 2.1617928250295873E-19,
+      "FourthCoefficient": -6.422000121899612E-15,
+      "ThirdCoefficient": 8.433249199855358E-11,
+      "SecondCoefficient": -5.007735594693318E-07,
+      "FirstCoefficient": 0.0011172709768264546,
+      "ZeroCoefficient": 86.90155737920415
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -9.137237587535751E-24,
+      "FifthCoefficient": 6.197425014728612E-19,
+      "FourthCoefficient": -1.573201479802722E-14,
+      "ThirdCoefficient": 1.8443362293860816E-10,
+      "SecondCoefficient": -1.0065038379356538E-06,
+      "FirstCoefficient": 0.0021108487030528237,
+      "ZeroCoefficient": 83.12795141054919
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "050",
+    "Name": "RRO/490/10-10/45/AL/3H/D32/H82",
+    "ImpellerRotationSpeed": 2910,
+    "MinVolumeFlow": 201,
+    "MaxVolumeFlow": 20100,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.302431219077627E-22,
+      "FifthCoefficient": 1.5057118649771662E-17,
+      "FourthCoefficient": -5.63047408421489E-13,
+      "ThirdCoefficient": 8.867505828063327E-09,
+      "SecondCoefficient": -5.6466166825764016E-05,
+      "FirstCoefficient": 0.05193139948401292,
+      "ZeroCoefficient": 1341.6669879646754
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 4.228407447266711E-25,
+      "FifthCoefficient": -1.1705028845749865E-21,
+      "FourthCoefficient": -7.172889121751477E-16,
+      "ThirdCoefficient": 1.6438013561332583E-11,
+      "SecondCoefficient": -9.749363419380533E-08,
+      "FirstCoefficient": -0.00010640710581065955,
+      "ZeroCoefficient": 7.324886360059828
+    },
+    "InletCrossSection": 0.1963,
+    "NominalPower": 7.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -2.787968770965956E-24,
+      "FifthCoefficient": 6.263280366450404E-21,
+      "FourthCoefficient": 4.999291559206866E-15,
+      "ThirdCoefficient": -1.2767946023679828E-10,
+      "SecondCoefficient": 1.0946437163748517E-06,
+      "FirstCoefficient": -0.0030960383036227686,
+      "ZeroCoefficient": 97.08611873811677
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.929412886007451E-23,
+      "FifthCoefficient": 1.0956585339419011E-18,
+      "FourthCoefficient": -2.244956643178477E-14,
+      "ThirdCoefficient": 2.0046674685172958E-10,
+      "SecondCoefficient": -7.652681300912259E-07,
+      "FirstCoefficient": 0.0009926039555214418,
+      "ZeroCoefficient": 93.23413081520522
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -9.36850531705414E-24,
+      "FifthCoefficient": 5.140113362647709E-19,
+      "FourthCoefficient": -9.81977202555911E-15,
+      "ThirdCoefficient": 7.466112806953355E-11,
+      "SecondCoefficient": -1.848393675420885E-07,
+      "FirstCoefficient": -4.219527524177564E-05,
+      "ZeroCoefficient": 91.51873020318834
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -5.8699476069559294E-24,
+      "FifthCoefficient": 3.616343995821149E-19,
+      "FourthCoefficient": -8.287808146706063E-15,
+      "ThirdCoefficient": 8.711425225852754E-11,
+      "SecondCoefficient": -4.2471030668872937E-07,
+      "FirstCoefficient": 0.0008011561702808788,
+      "ZeroCoefficient": 88.15595623974247
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -4.972779088432859E-24,
+      "FifthCoefficient": 3.2258869394835637E-19,
+      "FourthCoefficient": -7.903805841384826E-15,
+      "ThirdCoefficient": 9.063932340064299E-11,
+      "SecondCoefficient": -4.897654340744902E-07,
+      "FirstCoefficient": 0.0010288390512790953,
+      "ZeroCoefficient": 87.5120044695684
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.5767532115457424E-24,
+      "FifthCoefficient": 1.1215269981323854E-19,
+      "FourthCoefficient": -3.0690000616760142E-15,
+      "ThirdCoefficient": 4.003897786399139E-11,
+      "SecondCoefficient": -2.459225708155835E-07,
+      "FirstCoefficient": 0.000576977004444021,
+      "ZeroCoefficient": 86.29293419729774
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -3.537795333661971E-24,
+      "FifthCoefficient": 2.7361127192720775E-19,
+      "FourthCoefficient": -8.009018321489996E-15,
+      "ThirdCoefficient": 1.0978717402250941E-10,
+      "SecondCoefficient": -6.971678461900694E-07,
+      "FirstCoefficient": 0.001670353070955121,
+      "ZeroCoefficient": 84.88941077257513
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -5.016952640151484E-24,
+      "FifthCoefficient": 3.482144185289022E-19,
+      "FourthCoefficient": -9.204213026752593E-15,
+      "ThirdCoefficient": 1.1479383952337766E-10,
+      "SecondCoefficient": -6.737402524734301E-07,
+      "FirstCoefficient": 0.0015209651614638997,
+      "ZeroCoefficient": 81.41934001210225
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/8-8/35/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 1410,
+    "MinVolumeFlow": 96,
+    "MaxVolumeFlow": 9560,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": 4.5049243741740166E-23,
+      "FifthCoefficient": 1.0906261275704396E-17,
+      "FourthCoefficient": -2.9055406980066497E-13,
+      "ThirdCoefficient": 2.3866934526902325E-09,
+      "SecondCoefficient": -6.365465537872406E-06,
+      "FirstCoefficient": -0.022175903722813074,
+      "ZeroCoefficient": 300.1630827324334
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 1.1286531903945606E-24,
+      "FifthCoefficient": -4.622707236273145E-20,
+      "FourthCoefficient": 8.198547884762556E-16,
+      "ThirdCoefficient": -8.85705304254741E-12,
+      "SecondCoefficient": 5.276760170217146E-08,
+      "FirstCoefficient": -0.00013260732896249087,
+      "ZeroCoefficient": 0.5731779752385096
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 0.55,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -8.442890736125906E-22,
+      "FifthCoefficient": 2.5330796521093833E-17,
+      "FourthCoefficient": -2.8471245743737885E-13,
+      "ThirdCoefficient": 1.4825589318135634E-09,
+      "SecondCoefficient": -3.613501746425116E-06,
+      "FirstCoefficient": 0.003423174704933596,
+      "ZeroCoefficient": 81.30478895849762
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.6806770751243786E-21,
+      "FifthCoefficient": 5.342354896669962E-17,
+      "FourthCoefficient": -6.386868488726619E-13,
+      "ThirdCoefficient": 3.548932886560022E-09,
+      "SecondCoefficient": -9.238205487975243E-06,
+      "FirstCoefficient": 0.00930602466772072,
+      "ZeroCoefficient": 82.59041463826532
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.880147821277529E-21,
+      "FifthCoefficient": 6.111333401763858E-17,
+      "FourthCoefficient": -7.449603544720273E-13,
+      "ThirdCoefficient": 4.202982617715567E-09,
+      "SecondCoefficient": -1.106924114193751E-05,
+      "FirstCoefficient": 0.011246950671707811,
+      "ZeroCoefficient": 83.82067434055915
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -9.89444135089915E-23,
+      "FifthCoefficient": 6.920146942063716E-18,
+      "FourthCoefficient": -1.2517230110951893E-13,
+      "ThirdCoefficient": 9.053897408990893E-10,
+      "SecondCoefficient": -2.831791271164607E-06,
+      "FirstCoefficient": 0.0032458414160268234,
+      "ZeroCoefficient": 78.71330260597654
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 5.720673056474216E-22,
+      "FifthCoefficient": -1.3961955956305263E-17,
+      "FourthCoefficient": 1.2014325009940585E-13,
+      "ThirdCoefficient": -4.418887548334525E-10,
+      "SecondCoefficient": 6.498968838169051E-07,
+      "FirstCoefficient": -0.0002463544967480054,
+      "ZeroCoefficient": 77.21698749765905
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -3.757113430256784E-22,
+      "FifthCoefficient": 1.3228154058985458E-17,
+      "FourthCoefficient": -1.7636200817116172E-13,
+      "ThirdCoefficient": 1.1007900797632868E-09,
+      "SecondCoefficient": -3.198172265311016E-06,
+      "FirstCoefficient": 0.003532326489468852,
+      "ZeroCoefficient": 73.88893634170626
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -5.622115786632897E-22,
+      "FifthCoefficient": 1.8898090379344013E-17,
+      "FourthCoefficient": -2.420586013708569E-13,
+      "ThirdCoefficient": 1.4620589589406111E-09,
+      "SecondCoefficient": -4.14232385017504E-06,
+      "FirstCoefficient": 0.004493541434995687,
+      "ZeroCoefficient": 72.60515474891686
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -2.4462312336876347E-22,
+      "FifthCoefficient": 8.754284653467771E-18,
+      "FourthCoefficient": -1.164739073788363E-13,
+      "ThirdCoefficient": 7.121885234049149E-10,
+      "SecondCoefficient": -2.0132940106237423E-06,
+      "FirstCoefficient": 0.0021671105272732744,
+      "ZeroCoefficient": 68.60988645089456
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/8-8/40/AL/3H/D19/H42",
+    "ImpellerRotationSpeed": 1410,
+    "MinVolumeFlow": 107,
+    "MaxVolumeFlow": 10700,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": 3.3612935761917615E-21,
+      "FifthCoefficient": -1.0978989889161911E-16,
+      "FourthCoefficient": 1.3558623520513738E-12,
+      "ThirdCoefficient": -8.083704190104903E-09,
+      "SecondCoefficient": 2.492877197071743E-05,
+      "FirstCoefficient": -0.054101981549658756,
+      "ZeroCoefficient": 296.50344995267255
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 4.6612284797763364E-24,
+      "FifthCoefficient": -1.4977871925484814E-19,
+      "FourthCoefficient": 1.8936846679260204E-15,
+      "ThirdCoefficient": -1.3549982868232202E-11,
+      "SecondCoefficient": 6.434624155415005E-08,
+      "FirstCoefficient": -0.00016683423774069978,
+      "ZeroCoefficient": 0.7421316658001957
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 0.75,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.8573321804853243E-22,
+      "FifthCoefficient": 6.8169107767934296E-18,
+      "FourthCoefficient": -9.365623370679103E-14,
+      "ThirdCoefficient": 5.940532596181166E-10,
+      "SecondCoefficient": -1.7552219310430273E-06,
+      "FirstCoefficient": 0.001997939670778009,
+      "ZeroCoefficient": 80.00533931289903
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -1.613276175366089E-22,
+      "FifthCoefficient": 6.028822566921782E-18,
+      "FourthCoefficient": -8.417970484793432E-14,
+      "ThirdCoefficient": 5.417307142616763E-10,
+      "SecondCoefficient": -1.6217995887718089E-06,
+      "FirstCoefficient": 0.0018672731240079571,
+      "ZeroCoefficient": 76.91774852575853
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -2.038490050682094E-22,
+      "FifthCoefficient": 6.885433563049823E-18,
+      "FourthCoefficient": -8.559428943249213E-14,
+      "ThirdCoefficient": 4.783817216478886E-10,
+      "SecondCoefficient": -1.2178632942369664E-06,
+      "FirstCoefficient": 0.0011832361106413577,
+      "ZeroCoefficient": 75.78747485244719
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 1.0264720267295956E-22,
+      "FifthCoefficient": -4.091735318852434E-18,
+      "FourthCoefficient": 6.529539352585834E-14,
+      "ThirdCoefficient": -5.103564086693661E-10,
+      "SecondCoefficient": 1.8511845722438639E-06,
+      "FirstCoefficient": -0.0024927077473776856,
+      "ZeroCoefficient": 74.94845787506925
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 7.824160216102916E-23,
+      "FifthCoefficient": -3.303647108980526E-18,
+      "FourthCoefficient": 5.581886466699786E-14,
+      "ThirdCoefficient": -4.5803386331289987E-10,
+      "SecondCoefficient": 1.7177622299725624E-06,
+      "FirstCoefficient": -0.0023620412006075315,
+      "ZeroCoefficient": 75.03604866220974
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.5684288990072351E-22,
+      "FifthCoefficient": 5.238019995098373E-18,
+      "FourthCoefficient": -6.514983822404562E-14,
+      "ThirdCoefficient": 3.7176081238980493E-10,
+      "SecondCoefficient": -9.846689129121443E-07,
+      "FirstCoefficient": 0.0010092591811197932,
+      "ZeroCoefficient": 72.903125882442
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.5684288990072034E-22,
+      "FifthCoefficient": 5.2380199950982676E-18,
+      "FourthCoefficient": -6.51498382240443E-14,
+      "ThirdCoefficient": 3.717608123897973E-10,
+      "SecondCoefficient": -9.846689129121234E-07,
+      "FirstCoefficient": 0.0010092591811197709,
+      "ZeroCoefficient": 71.70312588244192
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -3.754652971231011E-22,
+      "FifthCoefficient": 1.2597849351165159E-17,
+      "FourthCoefficient": -1.5810638287177655E-13,
+      "ThirdCoefficient": 9.170017291802037E-10,
+      "SecondCoefficient": -2.4849696829967984E-06,
+      "FirstCoefficient": 0.0026158330502134984,
+      "ZeroCoefficient": 67.34777590174937
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/10-10/45/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 1420,
+    "MinVolumeFlow": 132,
+    "MaxVolumeFlow": 13200,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -3.0150017646057438E-21,
+      "FifthCoefficient": 1.3834932788159141E-16,
+      "FourthCoefficient": -2.4374096273134654E-12,
+      "ThirdCoefficient": 2.016187422836488E-08,
+      "SecondCoefficient": -7.52576516088692E-05,
+      "FirstCoefficient": 0.07704603171640835,
+      "ZeroCoefficient": 362.1141201997998
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -9.145963088992752E-25,
+      "FifthCoefficient": 4.824215069672239E-20,
+      "FourthCoefficient": -9.206944386736702E-16,
+      "ThirdCoefficient": 6.523391021229452E-12,
+      "SecondCoefficient": -5.038742437937992E-10,
+      "FirstCoefficient": -0.0001307954111574529,
+      "ZeroCoefficient": 1.2972658566708946
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 1.1,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.6228965790988383E-22,
+      "FifthCoefficient": 5.309972621261325E-18,
+      "FourthCoefficient": -5.44036774199962E-14,
+      "ThirdCoefficient": 1.3191959244578324E-10,
+      "SecondCoefficient": 5.810671376298645E-07,
+      "FirstCoefficient": -0.0021573127608355653,
+      "ZeroCoefficient": 86.58174393061068
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -4.024723916765354E-22,
+      "FifthCoefficient": 1.6021475772330222E-17,
+      "FourthCoefficient": -2.370224647595308E-13,
+      "ThirdCoefficient": 1.6089630363479363E-09,
+      "SecondCoefficient": -5.066099231157961E-06,
+      "FirstCoefficient": 0.006173270156793699,
+      "ZeroCoefficient": 82.67267846326689
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -2.6750586912353053E-22,
+      "FifthCoefficient": 1.0684431687923869E-17,
+      "FourthCoefficient": -1.5802716260105312E-13,
+      "ThirdCoefficient": 1.0650029749812363E-09,
+      "SecondCoefficient": -3.3052048215658868E-06,
+      "FirstCoefficient": 0.003946163773404224,
+      "ZeroCoefficient": 80.9367909057637
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -9.660966634375804E-23,
+      "FifthCoefficient": 3.598299836485324E-18,
+      "FourthCoefficient": -4.7246643325115005E-14,
+      "ThirdCoefficient": 2.5454190441530784E-10,
+      "SecondCoefficient": -5.082029527404869E-07,
+      "FirstCoefficient": 0.00018181100015768047,
+      "ZeroCoefficient": 77.68704413973613
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -9.469752608071982E-23,
+      "FifthCoefficient": 3.6700444963439205E-18,
+      "FourthCoefficient": -5.1572964690287634E-14,
+      "ThirdCoefficient": 3.1758963869537894E-10,
+      "SecondCoefficient": -8.518935867883706E-07,
+      "FirstCoefficient": 0.0008149021419213504,
+      "ZeroCoefficient": 76.90829283686965
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.0943557804689885E-22,
+      "FifthCoefficient": 4.524644388207506E-18,
+      "FourthCoefficient": -7.025286115041613E-14,
+      "ThirdCoefficient": 5.074505623488955E-10,
+      "SecondCoefficient": -1.7215635978514972E-06,
+      "FirstCoefficient": 0.002274382717863647,
+      "ZeroCoefficient": 74.92874664214551
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -8.740945032278609E-23,
+      "FifthCoefficient": 3.8766334111622385E-18,
+      "FourthCoefficient": -6.482600210254395E-14,
+      "ThirdCoefficient": 5.055416600559156E-10,
+      "SecondCoefficient": -1.8499533136202162E-06,
+      "FirstCoefficient": 0.002618033053781238,
+      "ZeroCoefficient": 73.78477570891901
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.1305175503942002E-22,
+      "FifthCoefficient": 4.689620522485451E-18,
+      "FourthCoefficient": -7.244859769121601E-14,
+      "ThirdCoefficient": 5.135048427455817E-10,
+      "SecondCoefficient": -1.6897791510464286E-06,
+      "FirstCoefficient": 0.002151924529246523,
+      "ZeroCoefficient": 70.74490881147324
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/10-10/50/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 1420,
+    "MinVolumeFlow": 145,
+    "MaxVolumeFlow": 14500,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -2.147345925317267E-21,
+      "FifthCoefficient": 1.1219863747705677E-16,
+      "FourthCoefficient": -2.2521316674471554E-12,
+      "ThirdCoefficient": 2.1297692929992387E-08,
+      "SecondCoefficient": -9.157748905171826E-05,
+      "FirstCoefficient": 0.11888276804731164,
+      "ZeroCoefficient": 358.5965101867132
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -5.569569517665706E-24,
+      "FifthCoefficient": 2.9744011276523224E-19,
+      "FourthCoefficient": -6.121725611356264E-15,
+      "ThirdCoefficient": 5.929494676237221E-11,
+      "SecondCoefficient": -2.5708702113138606E-07,
+      "FirstCoefficient": 0.0003415156096774368,
+      "ZeroCoefficient": 1.4156916084695421
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 1.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -4.9687942354914256E-23,
+      "FifthCoefficient": 1.795392939454357E-18,
+      "FourthCoefficient": -2.0288038644379195E-14,
+      "ThirdCoefficient": 5.362266402441984E-11,
+      "SecondCoefficient": 2.666265273015727E-07,
+      "FirstCoefficient": -0.0010775946413147345,
+      "ZeroCoefficient": 84.55460065726146
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -5.642695288792587E-23,
+      "FifthCoefficient": 1.944615769753831E-18,
+      "FourthCoefficient": -1.9611430695044208E-14,
+      "ThirdCoefficient": 1.7602356974837582E-11,
+      "SecondCoefficient": 5.28009024893842E-07,
+      "FirstCoefficient": -0.001640930378254434,
+      "ZeroCoefficient": 81.63197749893965
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -7.263950126206956E-23,
+      "FifthCoefficient": 3.0452601380920056E-18,
+      "FourthCoefficient": -4.613143683729855E-14,
+      "ThirdCoefficient": 3.0445778853047583E-10,
+      "SecondCoefficient": -8.644634734193765E-07,
+      "FirstCoefficient": 0.0008525381653844896,
+      "ZeroCoefficient": 79.29610155759025
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -4.1056600808376057E-23,
+      "FifthCoefficient": 1.849859936098321E-18,
+      "FourthCoefficient": -3.076017061451E-14,
+      "ThirdCoefficient": 2.3123005241997267E-10,
+      "SecondCoefficient": -7.957454551763654E-07,
+      "FirstCoefficient": 0.001049477696486716,
+      "ZeroCoefficient": 76.06461001479543
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -1.9977446636566324E-23,
+      "FifthCoefficient": 8.4412671098561815E-19,
+      "FourthCoefficient": -1.2565665214512939E-14,
+      "ThirdCoefficient": 7.648055927882861E-11,
+      "SecondCoefficient": -1.7451494127657637E-07,
+      "FirstCoefficient": 8.213917091775455E-05,
+      "ZeroCoefficient": 76.19267998541756
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -2.165601635659161E-23,
+      "FifthCoefficient": 1.2135336597397374E-18,
+      "FourthCoefficient": -2.5352160745763342E-14,
+      "ThirdCoefficient": 2.444850835151924E-10,
+      "SecondCoefficient": -1.0877441952666935E-06,
+      "FirstCoefficient": 0.0018307093242396545,
+      "ZeroCoefficient": 74.15538364985025
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.6825983930368978E-23,
+      "FifthCoefficient": 9.834856452551933E-19,
+      "FourthCoefficient": -2.1133101254973957E-14,
+      "ThirdCoefficient": 2.0737562499144846E-10,
+      "SecondCoefficient": -9.328066138359281E-07,
+      "FirstCoefficient": 0.0015810556901558802,
+      "ZeroCoefficient": 73.18854453690254
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -9.234859959029336E-25,
+      "FifthCoefficient": 2.343638112144947E-19,
+      "FourthCoefficient": -7.387574008777888E-15,
+      "ThirdCoefficient": 8.468225412735156E-11,
+      "SecondCoefficient": -4.085866803812714E-07,
+      "FirstCoefficient": 0.0007156631453904123,
+      "ZeroCoefficient": 70.10400046186747
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/9-9/50/AL/5Z/D24/H52",
+    "ImpellerRotationSpeed": 1420,
+    "MinVolumeFlow": 159,
+    "MaxVolumeFlow": 15900,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -5.354421603693268E-22,
+      "FifthCoefficient": 3.899866009005442E-17,
+      "FourthCoefficient": -1.0435778062947082E-12,
+      "ThirdCoefficient": 1.253026149248668E-08,
+      "SecondCoefficient": -6.133241272227277E-05,
+      "FirstCoefficient": 0.02051777757149268,
+      "ZeroCoefficient": 723.1303351045335
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -1.2479814135974003E-27,
+      "FifthCoefficient": 3.077082982816647E-20,
+      "FourthCoefficient": -1.424713325675444E-15,
+      "ThirdCoefficient": 2.27462126753936E-11,
+      "SecondCoefficient": -1.3337396238608E-07,
+      "FirstCoefficient": 8.543709285439072E-05,
+      "ZeroCoefficient": 2.8692860936449063
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 2.2,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -4.427563087754453E-23,
+      "FifthCoefficient": 1.6856906136386473E-18,
+      "FourthCoefficient": -1.8138680516338048E-14,
+      "ThirdCoefficient": -1.7328980818459323E-12,
+      "SecondCoefficient": 7.845033136584523E-07,
+      "FirstCoefficient": -0.0025243212577182616,
+      "ZeroCoefficient": 94.19011785374448
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": 6.564353477301516E-24,
+      "FifthCoefficient": -1.0950073669354476E-18,
+      "FourthCoefficient": 4.0049886058667427E-14,
+      "ThirdCoefficient": -5.790864031855401E-10,
+      "SecondCoefficient": 3.4838257283656533E-06,
+      "FirstCoefficient": -0.007371822689111886,
+      "ZeroCoefficient": 91.89838481810112
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -1.324293520039818E-23,
+      "FifthCoefficient": 8.831606821251206E-20,
+      "FourthCoefficient": 1.3212496609010637E-14,
+      "ThirdCoefficient": -2.9345944018765474E-10,
+      "SecondCoefficient": 2.072154870683198E-06,
+      "FirstCoefficient": -0.00473241384129019,
+      "ZeroCoefficient": 89.51084216424334
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -2.346025151355813E-23,
+      "FifthCoefficient": 6.654319269684327E-19,
+      "FourthCoefficient": -1.8471540880616888E-16,
+      "ThirdCoefficient": -1.3708739745413617E-10,
+      "SecondCoefficient": 1.2182587099437384E-06,
+      "FirstCoefficient": -0.003003811478173227,
+      "ZeroCoefficient": 84.35423350913972
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 1.3411844457170277E-23,
+      "FifthCoefficient": -9.622376282731019E-19,
+      "FourthCoefficient": 2.5610833449145907E-14,
+      "ThirdCoefficient": -3.137790673647513E-10,
+      "SecondCoefficient": 1.7258396003846787E-06,
+      "FirstCoefficient": -0.003474401146029171,
+      "ZeroCoefficient": 83.41486820035513
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -4.9582251865179034E-24,
+      "FifthCoefficient": 1.487020813459563E-19,
+      "FourthCoefficient": -3.809764320281265E-16,
+      "ThirdCoefficient": -2.3892270601177336E-11,
+      "SecondCoefficient": 2.2683418025116633E-07,
+      "FirstCoefficient": -0.0005701557902755523,
+      "ZeroCoefficient": 79.08636317242483
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 2.8391517803325475E-23,
+      "FifthCoefficient": -1.4022546631886692E-18,
+      "FourthCoefficient": 2.583861116283077E-14,
+      "ThirdCoefficient": -2.192304693916648E-10,
+      "SecondCoefficient": 8.662193357233483E-07,
+      "FirstCoefficient": -0.0013273250627820604,
+      "ZeroCoefficient": 77.18956848595201
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": 9.916450373035807E-24,
+      "FifthCoefficient": -2.974041626919126E-19,
+      "FourthCoefficient": 7.61952864056253E-16,
+      "ThirdCoefficient": 4.778454120235467E-11,
+      "SecondCoefficient": -4.5366836050233267E-07,
+      "FirstCoefficient": 0.0011403115805511046,
+      "ZeroCoefficient": 70.82727365515032
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/6-6/25/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 1420,
+    "MinVolumeFlow": 56,
+    "MaxVolumeFlow": 5570,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.4845598742222057E-19,
+      "FifthCoefficient": 2.790149101808745E-15,
+      "FourthCoefficient": -2.0122920075854485E-11,
+      "ThirdCoefficient": 6.91232518951401E-08,
+      "SecondCoefficient": -0.00011214719340264332,
+      "FirstCoefficient": 0.034956633898255915,
+      "ZeroCoefficient": 206.40260490907554
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": -3.7691256243090547E-23,
+      "FifthCoefficient": 6.4206720493295045E-19,
+      "FourthCoefficient": -4.109846970299879E-15,
+      "ThirdCoefficient": 1.1520518338310387E-11,
+      "SecondCoefficient": -1.523937264543882E-08,
+      "FirstCoefficient": 2.15301870929616E-05,
+      "ZeroCoefficient": 0.13585489592025585
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 1.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 2.5219009382606444E-20,
+      "FifthCoefficient": -4.691590449768506E-16,
+      "FourthCoefficient": 3.31099014101543E-12,
+      "ThirdCoefficient": -1.0983963560417872E-08,
+      "SecondCoefficient": 1.7172979888062172E-05,
+      "FirstCoefficient": -0.010388937392914088,
+      "ZeroCoefficient": 75.02888758158059
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": 3.8872851002929924E-20,
+      "FifthCoefficient": -6.850697410008153E-16,
+      "FourthCoefficient": 4.598652820153419E-12,
+      "ThirdCoefficient": -1.4652810931942719E-08,
+      "SecondCoefficient": 2.2214007831389913E-05,
+      "FirstCoefficient": -0.013141339259222213,
+      "ZeroCoefficient": 79.36728273339037
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": 5.598466161231608E-21,
+      "FifthCoefficient": -7.911610087277112E-17,
+      "FourthCoefficient": 4.2766310720957287E-13,
+      "ThirdCoefficient": -1.2098102208947004E-09,
+      "SecondCoefficient": 1.811299224991447E-06,
+      "FirstCoefficient": -0.0011252443698381792,
+      "ZeroCoefficient": 81.55790437846574
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 1.2026510411220851E-20,
+      "FifthCoefficient": -1.8232380146040755E-16,
+      "FourthCoefficient": 9.929483622226447E-13,
+      "ThirdCoefficient": -2.3567550683068405E-09,
+      "SecondCoefficient": 2.373800091827686E-06,
+      "FirstCoefficient": -0.0007888165203933102,
+      "ZeroCoefficient": 80.03597058291442
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 1.9140524398614562E-20,
+      "FifthCoefficient": -3.2946730237355704E-16,
+      "FourthCoefficient": 2.1054228622343617E-12,
+      "ThirdCoefficient": -6.14566520904065E-09,
+      "SecondCoefficient": 8.290696634093476E-06,
+      "FirstCoefficient": -0.004316052761039447,
+      "ZeroCoefficient": 77.81483072993038
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -5.7299954152757125E-21,
+      "FifthCoefficient": 9.736550467746918E-17,
+      "FourthCoefficient": -6.615366255507663E-13,
+      "ThirdCoefficient": 2.292781473448118E-09,
+      "SecondCoefficient": -3.910020181005721E-06,
+      "FirstCoefficient": 0.002589368269904989,
+      "ZeroCoefficient": 74.4662480260624
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.0273896093606713E-20,
+      "FifthCoefficient": 1.7721438522922252E-16,
+      "FourthCoefficient": -1.1973068249657066E-12,
+      "ThirdCoefficient": 4.000896617701096E-09,
+      "SecondCoefficient": -6.4944193052779395E-06,
+      "FirstCoefficient": 0.004109815090177,
+      "ZeroCoefficient": 73.6892913573024
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -8.583376947581993E-21,
+      "FifthCoefficient": 1.5871079867099817E-16,
+      "FourthCoefficient": -1.1703799786176202E-12,
+      "ThirdCoefficient": 4.29452447799594E-09,
+      "SecondCoefficient": -7.5427819647048155E-06,
+      "FirstCoefficient": 0.005052663837805009,
+      "ZeroCoefficient": 70.03918098438156
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/6-6/30/AL/3H/D22/H52",
+    "ImpellerRotationSpeed": 1420,
+    "MinVolumeFlow": 70,
+    "MaxVolumeFlow": 6960,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -3.0397398957857254E-20,
+      "FifthCoefficient": 7.434835053816232E-16,
+      "FourthCoefficient": -6.934201331562132E-12,
+      "ThirdCoefficient": 3.0430886467214916E-08,
+      "SecondCoefficient": -6.249311075627173E-05,
+      "FirstCoefficient": 0.024568948068992482,
+      "ZeroCoefficient": 217.59005654135433
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 2.2297746503830136E-23,
+      "FifthCoefficient": -4.8223845939920555E-19,
+      "FourthCoefficient": 3.9912182297680076E-15,
+      "ThirdCoefficient": -1.66739182538045E-11,
+      "SecondCoefficient": 3.60085466734101E-08,
+      "FirstCoefficient": -2.3967912343296908E-05,
+      "ZeroCoefficient": 0.2245157943981898
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 2.2,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -2.7249865637860082E-21,
+      "FifthCoefficient": 6.241612377608733E-17,
+      "FourthCoefficient": -5.420876506283806E-13,
+      "ThirdCoefficient": 2.2130003518017253E-09,
+      "SecondCoefficient": -4.2617130509438995E-06,
+      "FirstCoefficient": 0.00318208071027004,
+      "ZeroCoefficient": 76.69791197665619
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -2.622182292921639E-21,
+      "FifthCoefficient": 6.116146221810154E-17,
+      "FourthCoefficient": -5.330528653472929E-13,
+      "ThirdCoefficient": 2.13887252693872E-09,
+      "SecondCoefficient": -3.993846630269553E-06,
+      "FirstCoefficient": 0.0028786437176982873,
+      "ZeroCoefficient": 78.6182822127949
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": 1.2813143566284622E-21,
+      "FifthCoefficient": -2.7442037387229186E-17,
+      "FourthCoefficient": 2.3450539259178265E-13,
+      "ThirdCoefficient": -1.0149856256587022E-09,
+      "SecondCoefficient": 2.148916590243516E-06,
+      "FirstCoefficient": -0.0017629490786572756,
+      "ZeroCoefficient": 78.91352228234429
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -1.7389337464690885E-21,
+      "FifthCoefficient": 3.583238056038193E-17,
+      "FourthCoefficient": -2.6194381685441443E-13,
+      "ThirdCoefficient": 7.95915526976008E-10,
+      "SecondCoefficient": -9.509088042732438E-07,
+      "FirstCoefficient": 0.0003052730265734543,
+      "ZeroCoefficient": 78.884317196463
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -9.372699812020924E-22,
+      "FifthCoefficient": 2.012194131910851E-17,
+      "FourthCoefficient": -1.5342265384374537E-13,
+      "ThirdCoefficient": 4.886451706397043E-10,
+      "SecondCoefficient": -6.310572176116716E-07,
+      "FirstCoefficient": 0.00025035201295875307,
+      "ZeroCoefficient": 78.88613284153841
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.1944030090876059E-21,
+      "FifthCoefficient": 2.579667068479654E-17,
+      "FourthCoefficient": -2.095783968312496E-13,
+      "ThirdCoefficient": 7.941140163002007E-10,
+      "SecondCoefficient": -1.4157471787710923E-06,
+      "FirstCoefficient": 0.0009838002980414372,
+      "ZeroCoefficient": 75.4381659699186
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -8.613189275680267E-22,
+      "FifthCoefficient": 1.876565762151752E-17,
+      "FourthCoefficient": -1.5420289538066727E-13,
+      "ThirdCoefficient": 5.932714172058249E-10,
+      "SecondCoefficient": -1.0781948597181721E-06,
+      "FirstCoefficient": 0.0007652979794046981,
+      "ZeroCoefficient": 75.95170192913338
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -7.299471940150294E-22,
+      "FifthCoefficient": 1.2204908473609212E-17,
+      "FourthCoefficient": -6.80710263081599E-14,
+      "ThirdCoefficient": 1.3983492756258562E-10,
+      "SecondCoefficient": -4.551420678979545E-08,
+      "FirstCoefficient": -9.661564322814408E-05,
+      "ZeroCoefficient": 71.80709477334864
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/6-6/35/AL/3H/D24/H52",
+    "ImpellerRotationSpeed": 2875,
+    "MinVolumeFlow": 176,
+    "MaxVolumeFlow": 17600,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": 2.5430130970894617E-22,
+      "FifthCoefficient": -1.2200307031856918E-17,
+      "FourthCoefficient": 2.084484146697222E-13,
+      "ThirdCoefficient": -1.5740450040930109E-09,
+      "SecondCoefficient": 5.705228008626454E-06,
+      "FirstCoefficient": -0.04878497889754704,
+      "ZeroCoefficient": 954.3887243859763
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 2.4491250735609633E-24,
+      "FifthCoefficient": -1.456368940644607E-19,
+      "FourthCoefficient": 3.3611199323947357E-15,
+      "ThirdCoefficient": -3.868743465530185E-11,
+      "SecondCoefficient": 2.3158810552367752E-07,
+      "FirstCoefficient": -0.0006255998817547786,
+      "ZeroCoefficient": 3.4132537018793503
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 3,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -3.029109467686997E-23,
+      "FifthCoefficient": 1.6194963486351058E-18,
+      "FourthCoefficient": -3.2153805217670254E-14,
+      "ThirdCoefficient": 2.922261786494991E-10,
+      "SecondCoefficient": -1.229087352881624E-06,
+      "FirstCoefficient": 0.0019967903079655654,
+      "ZeroCoefficient": 94.08644918874657
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -3.494615375036488E-23,
+      "FifthCoefficient": 1.8729183120772024E-18,
+      "FourthCoefficient": -3.7087272342880174E-14,
+      "ThirdCoefficient": 3.3308391362310035E-10,
+      "SecondCoefficient": -1.3715587567817003E-06,
+      "FirstCoefficient": 0.002165157796433583,
+      "ZeroCoefficient": 96.96165410912215
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -6.275924541367695E-23,
+      "FifthCoefficient": 3.483218521158631E-18,
+      "FourthCoefficient": -7.241197868482346E-14,
+      "ThirdCoefficient": 6.969280027613581E-10,
+      "SecondCoefficient": -3.137850837836179E-06,
+      "FirstCoefficient": 0.005488833250876678,
+      "ZeroCoefficient": 99.128302409767
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -6.276051427329467E-23,
+      "FifthCoefficient": 3.648107841287993E-18,
+      "FourthCoefficient": -7.982529730127861E-14,
+      "ThirdCoefficient": 8.129115757938956E-10,
+      "SecondCoefficient": -3.882303075662587E-06,
+      "FirstCoefficient": 0.007182276060679357,
+      "ZeroCoefficient": 97.65024785920724
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -2.475090135894581E-23,
+      "FifthCoefficient": 1.466257412938347E-18,
+      "FourthCoefficient": -3.2539626264019644E-14,
+      "ThirdCoefficient": 3.338295721304831E-10,
+      "SecondCoefficient": -1.5987347931451022E-06,
+      "FirstCoefficient": 0.0029583923518643673,
+      "ZeroCoefficient": 94.22645277625682
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.3309584566691915E-23,
+      "FifthCoefficient": 8.401693226765017E-19,
+      "FourthCoefficient": -1.9748968703654408E-14,
+      "ThirdCoefficient": 2.1322423580293464E-10,
+      "SecondCoefficient": -1.0675437150581679E-06,
+      "FirstCoefficient": 0.0020486414985826317,
+      "ZeroCoefficient": 91.37062168281463
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -5.977303820324347E-24,
+      "FifthCoefficient": 3.284387829605518E-19,
+      "FourthCoefficient": -6.675165539645293E-15,
+      "ThirdCoefficient": 6.161308103474284E-11,
+      "SecondCoefficient": -2.61721683862515E-07,
+      "FirstCoefficient": 0.00042805192192663837,
+      "ZeroCoefficient": 90.43269102912933
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -2.2786061712830583E-23,
+      "FifthCoefficient": 1.2610233043868203E-18,
+      "FourthCoefficient": -2.6232438690699496E-14,
+      "ThirdCoefficient": 2.5411627363762857E-10,
+      "SecondCoefficient": -1.1567169857181924E-06,
+      "FirstCoefficient": 0.002049728367356268,
+      "ZeroCoefficient": 86.57380503623173
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/6-6/40/AL/3H/D28/H62",
+    "ImpellerRotationSpeed": 2880,
+    "MinVolumeFlow": 201,
+    "MaxVolumeFlow": 20100,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": 6.650479145049396E-23,
+      "FifthCoefficient": -3.402247659976302E-18,
+      "FourthCoefficient": 6.152145027036562E-14,
+      "ThirdCoefficient": -5.800140821021891E-10,
+      "SecondCoefficient": 4.612283358608178E-06,
+      "FirstCoefficient": -0.05626681670793707,
+      "ZeroCoefficient": 1021.1543468919327
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 2.9410680974479482E-24,
+      "FifthCoefficient": -1.9323079987055968E-19,
+      "FourthCoefficient": 4.918412843027737E-15,
+      "ThirdCoefficient": -6.169742612332821E-11,
+      "SecondCoefficient": 3.970036832939489E-07,
+      "FirstCoefficient": -0.0011630620311249386,
+      "ZeroCoefficient": 4.68784171577834
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 4,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 1.6884882524573675E-23,
+      "FifthCoefficient": -1.1184234969253505E-18,
+      "FourthCoefficient": 2.8265074693382494E-14,
+      "ThirdCoefficient": -3.3851594701800586E-10,
+      "SecondCoefficient": 1.919950100284684E-06,
+      "FirstCoefficient": -0.004219637457262967,
+      "ZeroCoefficient": 93.57602484709855
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": 1.5751752366626854E-23,
+      "FifthCoefficient": -1.063438936547292E-18,
+      "FourthCoefficient": 2.7458122858093804E-14,
+      "ThirdCoefficient": -3.365997556567915E-10,
+      "SecondCoefficient": 1.9517338453404896E-06,
+      "FirstCoefficient": -0.004369284081980944,
+      "ZeroCoefficient": 93.30553810156746
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": 1.6725859103175605E-23,
+      "FifthCoefficient": -1.0894036470998823E-18,
+      "FourthCoefficient": 2.7104032328893273E-14,
+      "ThirdCoefficient": -3.205561293519059E-10,
+      "SecondCoefficient": 1.8012495461049293E-06,
+      "FirstCoefficient": -0.003933525488859155,
+      "ZeroCoefficient": 92.42297057189498
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 1.6501794907403642E-23,
+      "FifthCoefficient": -1.0768220370225752E-18,
+      "FourthCoefficient": 2.695901155864442E-14,
+      "ThirdCoefficient": -3.2265515851322494E-10,
+      "SecondCoefficient": 1.8392046662374287E-06,
+      "FirstCoefficient": -0.004070958325136042,
+      "ZeroCoefficient": 91.24968830707945
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": 1.2613403409996449E-23,
+      "FifthCoefficient": -8.331418756269924E-19,
+      "FourthCoefficient": 2.1134922962422113E-14,
+      "ThirdCoefficient": -2.5632518152768E-10,
+      "SecondCoefficient": 1.478475306259385E-06,
+      "FirstCoefficient": -0.0033033618002314335,
+      "ZeroCoefficient": 90.50905098076726
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 1.2720297431761923E-23,
+      "FifthCoefficient": -8.521454582618198E-19,
+      "FourthCoefficient": 2.199194466906866E-14,
+      "ThirdCoefficient": -2.720297183303528E-10,
+      "SecondCoefficient": 1.5990523461591823E-06,
+      "FirstCoefficient": -0.0036292480877754807,
+      "ZeroCoefficient": 89.97056953746039
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": 1.4626362999794197E-23,
+      "FifthCoefficient": -9.872217080262581E-19,
+      "FourthCoefficient": 2.5610952893886482E-14,
+      "ThirdCoefficient": -3.1735162312336846E-10,
+      "SecondCoefficient": 1.8645888067172082E-06,
+      "FirstCoefficient": -0.004226151157774031,
+      "ZeroCoefficient": 90.68062636296801
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": 1.649654500740798E-23,
+      "FifthCoefficient": -1.0934939418991383E-18,
+      "FourthCoefficient": 2.778239289079411E-14,
+      "ThirdCoefficient": -3.365266905345726E-10,
+      "SecondCoefficient": 1.9357011030100935E-06,
+      "FirstCoefficient": -0.0043118813475533455,
+      "ZeroCoefficient": 85.99463493731358
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/6-6/45/AL/3H/D28/H62",
+    "ImpellerRotationSpeed": 2890,
+    "MinVolumeFlow": 234,
+    "MaxVolumeFlow": 23400,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -2.91682274582631E-22,
+      "FifthCoefficient": 2.383846914596972E-17,
+      "FourthCoefficient": -7.447650633387661E-13,
+      "ThirdCoefficient": 1.0906068987339581E-08,
+      "SecondCoefficient": -7.242469533592975E-05,
+      "FirstCoefficient": 0.13797550217728904,
+      "ZeroCoefficient": 1041.5460065895095
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 7.617039718975721E-25,
+      "FifthCoefficient": -5.819367584812336E-20,
+      "FourthCoefficient": 1.7199494566549239E-15,
+      "ThirdCoefficient": -2.5438735895213037E-11,
+      "SecondCoefficient": 2.0595482077867085E-07,
+      "FirstCoefficient": -0.0008884458587278695,
+      "ZeroCoefficient": 6.616667177435705
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 5.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -8.913547924325225E-24,
+      "FifthCoefficient": 5.2002547394846285E-19,
+      "FourthCoefficient": -9.56192961315119E-15,
+      "ThirdCoefficient": 4.378328487610118E-11,
+      "SecondCoefficient": 2.8492381636234583E-07,
+      "FirstCoefficient": -0.001973493374757549,
+      "ZeroCoefficient": 106.45801315045793
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -9.503598715337973E-24,
+      "FifthCoefficient": 6.037374915290149E-19,
+      "FourthCoefficient": -1.3266550823635408E-14,
+      "ThirdCoefficient": 1.1374724431459835E-10,
+      "SecondCoefficient": -2.911181230639582E-07,
+      "FirstCoefficient": -0.0002555331766234196,
+      "ZeroCoefficient": 103.08306649199301
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -8.295601761215648E-24,
+      "FifthCoefficient": 5.262273375937282E-19,
+      "FourthCoefficient": -1.148255500143206E-14,
+      "ThirdCoefficient": 9.59731441631871E-11,
+      "SecondCoefficient": -2.1686196535157921E-07,
+      "FirstCoefficient": -0.00035508920541394497,
+      "ZeroCoefficient": 101.10189827139959
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -6.178987389835162E-24,
+      "FifthCoefficient": 4.160401413005192E-19,
+      "FourthCoefficient": -1.002181639969575E-14,
+      "ThirdCoefficient": 1.0275783596744788E-10,
+      "SecondCoefficient": -4.3283934851098996E-07,
+      "FirstCoefficient": 0.0005640540403654674,
+      "ZeroCoefficient": 96.99488720214839
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -6.992017021851976E-24,
+      "FifthCoefficient": 4.973503924251374E-19,
+      "FourthCoefficient": -1.3108388249266805E-14,
+      "ThirdCoefficient": 1.575280131925408E-10,
+      "SecondCoefficient": -8.730289371544126E-07,
+      "FirstCoefficient": 0.0018645722250957629,
+      "ZeroCoefficient": 93.71133157395246
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -3.30961785337994E-24,
+      "FifthCoefficient": 2.3968009321707376E-19,
+      "FourthCoefficient": -6.405707916505364E-15,
+      "ThirdCoefficient": 7.740140177677273E-11,
+      "SecondCoefficient": -4.279227657530886E-07,
+      "FirstCoefficient": 0.0009059502600561094,
+      "ZeroCoefficient": 92.11156591016665
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -3.2945636050058304E-25,
+      "FifthCoefficient": 3.083991845059349E-20,
+      "FourthCoefficient": -9.767071997271353E-16,
+      "ThirdCoefficient": 1.2777741840021302E-11,
+      "SecondCoefficient": -7.174365271562933E-08,
+      "FirstCoefficient": 0.00014688505591108915,
+      "ZeroCoefficient": 91.06985961862006
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.1454320240345794E-24,
+      "FifthCoefficient": 9.762616127651442E-20,
+      "FourthCoefficient": -3.045339370459213E-15,
+      "ThirdCoefficient": 4.2758929171399156E-11,
+      "SecondCoefficient": -2.752223806034433E-07,
+      "FirstCoefficient": 0.0006771438165000465,
+      "ZeroCoefficient": 87.35609018072037
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/10-10/40/AL/3H/D32/H82",
+    "ImpellerRotationSpeed": 2910,
+    "MinVolumeFlow": 236,
+    "MaxVolumeFlow": 23600,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -3.716322697663658E-23,
+      "FifthCoefficient": 3.20061287253933E-18,
+      "FourthCoefficient": -1.0510165657281087E-13,
+      "ThirdCoefficient": 1.464396499130266E-09,
+      "SecondCoefficient": -6.240342801627362E-06,
+      "FirstCoefficient": -0.052358704778318325,
+      "ZeroCoefficient": 1482.642076151628
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 3.709556865341392E-27,
+      "FifthCoefficient": 5.710680906889085E-21,
+      "FourthCoefficient": -3.267761897968839E-16,
+      "ThirdCoefficient": 4.529160856393603E-12,
+      "SecondCoefficient": 1.60208785091471E-08,
+      "FirstCoefficient": -0.0004933237167269619,
+      "ZeroCoefficient": 8.43495075104232
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 7.5,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": 1.2296672523887566E-24,
+      "FifthCoefficient": -8.22865385601556E-20,
+      "FourthCoefficient": 2.027011131906358E-15,
+      "ThirdCoefficient": -2.275837858963854E-11,
+      "SecondCoefficient": 1.172841289728945E-07,
+      "FirstCoefficient": -0.00023119495764610453,
+      "ZeroCoefficient": 94.34796904964188
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": 4.650726135297054E-25,
+      "FifthCoefficient": -2.1769607367467106E-20,
+      "FourthCoefficient": 2.1143314216713732E-16,
+      "ThirdCoefficient": 2.8122862191382987E-12,
+      "SecondCoefficient": -5.2184885219815466E-08,
+      "FirstCoefficient": 0.0002028760468707752,
+      "ZeroCoefficient": 91.65438039581937
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -2.5964540921804865E-25,
+      "FifthCoefficient": 2.2318609101027254E-20,
+      "FourthCoefficient": -6.686057862201099E-16,
+      "ThirdCoefficient": 8.3765647097578E-12,
+      "SecondCoefficient": -4.4793564141943284E-08,
+      "FirstCoefficient": 8.57456700760607E-05,
+      "ZeroCoefficient": 90.58252370613826
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": 3.7759110180472256E-25,
+      "FifthCoefficient": -3.5945491888642394E-20,
+      "FourthCoefficient": 1.3691469647738373E-15,
+      "ThirdCoefficient": -2.5259355745044522E-11,
+      "SecondCoefficient": 2.1172077930349764E-07,
+      "FirstCoefficient": -0.0006475120368214266,
+      "ZeroCoefficient": 90.04284808826549
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -2.59642069230098E-24,
+      "FifthCoefficient": 1.9984183873492537E-19,
+      "FourthCoefficient": -5.807082721482872E-15,
+      "ThirdCoefficient": 7.890534945141174E-11,
+      "SecondCoefficient": -5.046955753360037E-07,
+      "FirstCoefficient": 0.0012533595607961028,
+      "ZeroCoefficient": 89.63081704651086
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": 5.233959183476201E-26,
+      "FifthCoefficient": -9.260100811648588E-21,
+      "FourthCoefficient": 4.492780734170083E-16,
+      "ThirdCoefficient": -9.026459349364405E-12,
+      "SecondCoefficient": 7.778655627923568E-08,
+      "FirstCoefficient": -0.0002401821793778878,
+      "ZeroCoefficient": 89.05310495406137
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.5581096697554703E-24,
+      "FifthCoefficient": 1.1032027413723873E-19,
+      "FourthCoefficient": -2.8734543926352066E-15,
+      "ThirdCoefficient": 3.3665401844605056E-11,
+      "SecondCoefficient": -1.7862776322241626E-07,
+      "FirstCoefficient": 0.0003581389049952145,
+      "ZeroCoefficient": 87.72577051394939
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.7390525767815885E-24,
+      "FifthCoefficient": 1.3557165492033358E-19,
+      "FourthCoefficient": -3.998137539715801E-15,
+      "ThirdCoefficient": 5.5247323473322145E-11,
+      "SecondCoefficient": -3.5937802153336495E-07,
+      "FirstCoefficient": 0.0009057887362095667,
+      "ZeroCoefficient": 82.80510724100704
+    }
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Size": "056",
+    "Name": "RRO/549/10-10/45/AL/3H/D38/H82",
+    "ImpellerRotationSpeed": 2910,
+    "MinVolumeFlow": 271,
+    "MaxVolumeFlow": 27100,
+    "TotalPressureCoefficients": {
+      "SixthCoefficient": -1.7649110311443454E-22,
+      "FifthCoefficient": 1.6626201276054117E-17,
+      "FourthCoefficient": -6.009322329116015E-13,
+      "ThirdCoefficient": 1.0198541995679408E-08,
+      "SecondCoefficient": -7.825099998294986E-05,
+      "FirstCoefficient": 0.16754183638664605,
+      "ZeroCoefficient": 1520.2224724899643
+    },
+    "PowerCoefficients": {
+      "SixthCoefficient": 6.232202450846183E-27,
+      "FifthCoefficient": 1.3374106802191039E-21,
+      "FourthCoefficient": -9.548340182851132E-17,
+      "ThirdCoefficient": 6.104866587737412E-13,
+      "SecondCoefficient": 4.582487839817564E-08,
+      "FirstCoefficient": -0.0006878148047447502,
+      "ZeroCoefficient": 11.183181740892918
+    },
+    "InletCrossSection": 0.2462,
+    "NominalPower": 11,
+    "OctaveNoiseCoefficients63": {
+      "SixthCoefficient": -1.8537919692978152E-24,
+      "FifthCoefficient": 1.1628260048401131E-19,
+      "FourthCoefficient": -2.013182415241258E-15,
+      "ThirdCoefficient": -2.551649616842394E-12,
+      "SecondCoefficient": 2.7937407875464867E-07,
+      "FirstCoefficient": -0.0014814087885868484,
+      "ZeroCoefficient": 102.38866313926619
+    },
+    "OctaveNoiseCoefficients125": {
+      "SixthCoefficient": -5.2026445909000776E-24,
+      "FifthCoefficient": 4.2180081365352286E-19,
+      "FourthCoefficient": -1.2672461996251738E-14,
+      "ThirdCoefficient": 1.7395176371193783E-10,
+      "SecondCoefficient": -1.1025146317430299E-06,
+      "FirstCoefficient": 0.002694397906587966,
+      "ZeroCoefficient": 98.35065675833528
+    },
+    "OctaveNoiseCoefficients250": {
+      "SixthCoefficient": -3.515411632572803E-24,
+      "FifthCoefficient": 2.868182769983242E-19,
+      "FourthCoefficient": -8.650372902410223E-15,
+      "ThirdCoefficient": 1.185608108595139E-10,
+      "SecondCoefficient": -7.461617759895954E-07,
+      "FirstCoefficient": 0.0018020938060152492,
+      "ZeroCoefficient": 96.56670059163787
+    },
+    "OctaveNoiseCoefficients500": {
+      "SixthCoefficient": -1.3834213818965838E-24,
+      "FifthCoefficient": 1.0640289289584957E-19,
+      "FourthCoefficient": -2.9033262459044867E-15,
+      "ThirdCoefficient": 3.3056159010752326E-11,
+      "SecondCoefficient": -1.4674720104743366E-07,
+      "FirstCoefficient": 0.0001631223118296167,
+      "ZeroCoefficient": 93.26856887165629
+    },
+    "OctaveNoiseCoefficients1000": {
+      "SixthCoefficient": -1.2697198212571482E-24,
+      "FifthCoefficient": 1.0073213895584974E-19,
+      "FourthCoefficient": -2.894738151157126E-15,
+      "ThirdCoefficient": 3.6376542824277734E-11,
+      "SecondCoefficient": -1.9845032086581434E-07,
+      "FirstCoefficient": 0.0003836586313626775,
+      "ZeroCoefficient": 92.51163098552564
+    },
+    "OctaveNoiseCoefficients2000": {
+      "SixthCoefficient": -1.562319840375496E-24,
+      "FifthCoefficient": 1.3181612535404037E-19,
+      "FourthCoefficient": -4.174633722655046E-15,
+      "ThirdCoefficient": 6.148525736483429E-11,
+      "SecondCoefficient": -4.252683041744161E-07,
+      "FirstCoefficient": 0.0011458208935623973,
+      "ZeroCoefficient": 90.51969995883309
+    },
+    "OctaveNoiseCoefficients4000": {
+      "SixthCoefficient": -1.3307761448048435E-24,
+      "FifthCoefficient": 1.1964420305997614E-19,
+      "FourthCoefficient": -4.059531832880196E-15,
+      "ThirdCoefficient": 6.432623402145755E-11,
+      "SecondCoefficient": -4.789690387212456E-07,
+      "FirstCoefficient": 0.00138146451891178,
+      "ZeroCoefficient": 89.35883859092127
+    },
+    "OctaveNoiseCoefficients8000": {
+      "SixthCoefficient": -1.626282058716044E-24,
+      "FifthCoefficient": 1.3767988651262279E-19,
+      "FourthCoefficient": -4.3412266158518084E-15,
+      "ThirdCoefficient": 6.283105530464502E-11,
+      "SecondCoefficient": -4.2236817368083866E-07,
+      "FirstCoefficient": 0.0010993387759149816,
+      "ZeroCoefficient": 86.3326007148417
+    }
+  }
+]
