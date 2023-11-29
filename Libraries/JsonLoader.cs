@@ -4,7 +4,7 @@ namespace Libraries;
 
 public static class JsonLoader
 {
-    public static async Task UploadAsync(List<FanData>? fanCollection, string? pathJsonFile)
+    public static void Upload(List<FanData>? fanCollection, string? pathJsonFile)
     {
         if (fanCollection == null)
         {
@@ -32,13 +32,19 @@ public static class JsonLoader
             WriteIndented = true
         };
 
-
-        await using (var fileStream = new FileStream(pathJsonFile, FileMode.Create))
+        /*await using (var fileStream = new FileStream(pathJsonFile, FileMode.Create))
         {
             await JsonSerializer.SerializeAsync(fileStream, fanCollection, options);
         }
 
         Console.WriteLine(JsonSerializer.Serialize(fanCollection));
+        */
+
+        var json = JsonSerializer.Serialize(fanCollection, options);
+        var file = File.CreateText(pathJsonFile);
+        file.WriteLine(json);
+        Console.WriteLine(json);
+        file.Close();
     }
 
     public static async Task<List<FanData>?> DownloadAsync(string? pathJsonFile)

@@ -9,7 +9,8 @@ public static class ExcelReader
         ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
         // Открытие существующего файла
-        var package = new ExcelPackage(new FileInfo(pathExcelFile ?? throw new InvalidOperationException("Файл не найден."))
+        var package = new ExcelPackage(
+            new FileInfo(pathExcelFile ?? throw new InvalidOperationException("Файл не найден."))
         );
 
         // Получение листа по индексу или имени
