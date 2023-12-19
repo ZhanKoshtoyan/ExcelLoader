@@ -2,7 +2,6 @@
 
 namespace Libraries;
 
-[SuppressMessage("ReSharper", "UnusedAutoPropertyAccessor.Global")]
 public record PolynomialType
 {
     /// <summary>

@@ -37,6 +37,7 @@ public static class ExcelReader
         {
             var fanData = new FanData
             {
+                Version = worksheet.Cells[row, 1].Value.ToString()!,
                 Size = worksheet.Cells[row, 2].Value.ToString()!,
                 ImpellerRotationDirection = worksheet.Cells[row, 7].Value!.ToString()!,
                 NominalImpellerRotationSpeed = Convert.ToInt32(worksheet.Cells[row, 10].Value!),
