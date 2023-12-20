@@ -4,6 +4,7 @@ namespace Libraries;
 
 public static class JsonLoader
 {
+    public static string? Response { get; private set; }
     public static void Upload(List<FanData>? fanCollection, string? pathJsonFile)
     {
         if (fanCollection == null)
@@ -19,8 +20,8 @@ public static class JsonLoader
         if (File.Exists(pathJsonFile))
         {
             Console.WriteLine("Файл уже существует. Хотите перезаписать его? (Y/N)");
-            var response = Console.ReadLine();
-            if (response?.ToUpper() != "Y")
+            Response = Console.ReadLine();
+            if (Response?.ToUpper() != "Y")
             {
                 return;
             }
